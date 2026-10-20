@@ -16,4 +16,3 @@
 - Original post: https://x.com/Gdgtify/status/2110060246215635036
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-Rights belong to the credited original authors. Takedown requests: contact via cinel.ai.

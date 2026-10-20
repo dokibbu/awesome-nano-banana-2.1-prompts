@@ -16,4 +16,3 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 - 原帖: https://x.com/fatih_ogpu/status/2109630235134095673
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/night-market-flaming-wok-chef?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-版权归各条目原作者所有；删除请求请通过 cinel.ai 联系。

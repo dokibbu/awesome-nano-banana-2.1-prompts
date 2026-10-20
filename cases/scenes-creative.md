@@ -226,4 +226,3 @@ Cinematic concert still, square 1:1: a headless horseman figure mid-solo on a cr
 - Original post: https://x.com/RealLeeForest/status/2109057357926085014
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/hollow-stage-pumpkin-head-solo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-Rights belong to the credited original authors. Takedown requests: contact via cinel.ai.

@@ -58,4 +58,3 @@ Cute anthropomorphic croissant mascot, full body, front three-quarter view, real
 - 原帖: https://x.com/azed_ai/status/2108511815181434974
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-版权归各条目原作者所有；删除请求请通过 cinel.ai 联系。

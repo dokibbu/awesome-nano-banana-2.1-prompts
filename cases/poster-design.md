@@ -67,4 +67,3 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 - Original post: https://x.com/Naiknelofar788/status/2109612639727009914
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-Rights belong to the credited original authors. Takedown requests: contact via cinel.ai.

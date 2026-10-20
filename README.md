@@ -504,8 +504,6 @@ Thoughts
 - Original post: https://x.com/AllaAisling/status/2109313324504551930
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-## License & credits
+## License
 
-- Code (scripts/, .github/): MIT, see [LICENSE](LICENSE).
-- Prompts and examples: rights belong to the original authors credited on each item. Every entry links to the author and the original post. Part of the data comes from [NanoBanana Trending Prompts](https://github.com/jau123/nanobanana-trending-prompts) by MeiGen.ai, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); changes were made (placeholders filled, example images regenerated with Nano Banana 2.1). See [CONTENT_LICENSE.md](CONTENT_LICENSE.md).
-- Takedown: if you are an original author and want an item removed or the credit changed, contact us via [cinel.ai](https://cinel.ai) or open an issue. We act on requests promptly.
+Code (scripts/, .github/) is MIT licensed, see [LICENSE](LICENSE). Each prompt credits its original author with a link to the original post.

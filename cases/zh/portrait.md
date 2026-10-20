@@ -170,4 +170,3 @@ Fine-art photoreal portrait, square 1:1: a mysterious figure whose entire head i
 - 原帖: https://x.com/lexx_aura/status/1984176759152025635
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/gothic-stitched-pumpkin-head-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-版权归各条目原作者所有；删除请求请通过 cinel.ai 联系。

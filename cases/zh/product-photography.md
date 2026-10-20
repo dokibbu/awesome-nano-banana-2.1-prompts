@@ -30,4 +30,3 @@ Museum-style product still life of a Renaissance-style jewel pendant: a small sw
 - 原帖: https://x.com/HerodotusWave/status/2109713964187697407
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/baroque-pearl-swan-pendant-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-版权归各条目原作者所有；删除请求请通过 cinel.ai 联系。
