@@ -1,0 +1,66 @@
+name: Sync from cinel-app
+
+on:
+  schedule:
+    - cron: '17 * * * *' # hourly fallback
+  repository_dispatch:
+    types: [cinel-prompts-updated]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check token
+        id: tok
+        env:
+          T: ${{ secrets.CINEL_APP_TOKEN }}
+        run: |
+          if [ -z "$T" ]; then
+            echo "::warning::Secret CINEL_APP_TOKEN is not set (read access to private dokibbu/cinel-app). Skipping sync."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout cinel-app (prompt data only)
+        if: steps.tok.outputs.ok == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: dokibbu/cinel-app
+          ref: main
+          token: ${{ secrets.CINEL_APP_TOKEN }}
+          path: _cinel
+          sparse-checkout: |
+            src/content/prompts
+            public/prompts/large
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-node@v4
+        if: steps.tok.outputs.ok == 'true'
+        with:
+          node-version: 22
+
+      - name: Regenerate
+        if: steps.tok.outputs.ok == 'true'
+        run: node scripts/generate.mjs --src _cinel
+
+      - name: Commit if changed
+        if: steps.tok.outputs.ok == 'true'
+        run: |
+          rm -rf _cinel
+          git add -A
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git commit -m "sync: update from cinel-app"
+          git push
