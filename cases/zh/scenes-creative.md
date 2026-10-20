@@ -1,6 +1,6 @@
-# 创意场景 · Nano Banana 2.1 提示词
+# 创意场景 · Nano Banana 2.1
 
-[← 返回首页](../../README_zh.md) · 15 条 · [cinel](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 15 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 剪影树与城市日落合成
 
@@ -225,4 +225,3 @@ Cinematic concert still, square 1:1: a headless horseman figure mid-solo on a cr
 - 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
 - 原帖: https://x.com/RealLeeForest/status/2109057357926085014
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/hollow-stage-pumpkin-head-solo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

@@ -30,9 +30,6 @@ const items = records
 
 const SITE = 'https://cinel.ai';
 const utm = `utm_source=github&utm_medium=awesome&utm_campaign=${cfg.repo}`;
-const detail = (slug, zh) => `${SITE}${zh ? '/zh' : ''}/prompts/p/${slug}?${utm}`;
-const modelPage = (zh) => `${SITE}${zh ? '/zh' : ''}/prompts/model/${cfg.modelPageSlug}?${utm}`;
-const catPage = (slug, zh) => `${SITE}${zh ? '/zh' : ''}/prompts/${slug}?${utm}`;
 
 // Images
 const imgDir = path.join(ROOT, 'images');
@@ -49,32 +46,41 @@ for (const r of items) {
 }
 for (const f of fs.readdirSync(imgDir)) if (!keep.has(f)) fs.rmSync(path.join(imgDir, f));
 
-const loc = (r, zh) => (zh && r.zh?.title ? r.zh : r.en) || {};
+const I18N = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts/i18n.json'), 'utf8'));
+const fill = (s, v) => String(s).replace(/\{(\w+)\}/g, (_, k) => v[k] ?? '');
+const detailL = (slug, t) => `${SITE}${t.site}/prompts/p/${slug}?${utm}`;
+const modelPageL = (t) => `${SITE}${t.site}/prompts/model/${cfg.modelPageSlug}?${utm}`;
+const catPageL = (slug, t) => `${SITE}${t.site}/prompts/${slug}?${utm}`;
 const fence = (t) => {
   let f = '```';
   while (t.includes(f)) f += '`';
   return `${f}text\n${t.trim()}\n${f}`;
 };
 const md = (s) => String(s || '').replace(/\|/g, '\\|');
+const badge = (s) => encodeURIComponent(String(s).replace(/-/g, '--').replace(/_/g, '__').replace(/ /g, '_'));
 
-function card(r, zh, rel) {
-  const L = loc(r, zh);
+function badges(rel) {
+  return Object.values(I18N)
+    .map((t) => `[![${t.flag} ${t.name}](https://img.shields.io/badge/${badge(`${t.flag} ${t.name}`)}-${badge(t.view)}-${t.color})](${rel}${t.file})`)
+    .join('\n');
+}
+
+function card(r, t, rel) {
+  const L = (t.zhContent && r.zh?.title ? r.zh : r.en) || {};
   const a = r.author;
-  const T = zh
-    ? { by: '原作者', src: '原帖', open: '在 cinel 上查看详情并一键生成' }
-    : { by: 'Author', src: 'Original post', open: 'View on cinel and generate with this prompt' };
   const w = r.images.width, h = r.images.height;
+  const title = md(L.title || r.slug);
   return [
-    `### ${md(L.title || r.slug)}`,
+    `### ${title}`,
     '',
-    `<a href="${detail(r.slug, zh)}"><img src="${rel}images/${r.slug}.webp" alt="${md(L.title || r.slug).replace(/"/g, '&quot;')}" width="${w >= h ? 480 : 360}"></a>`,
+    `<a href="${detailL(r.slug, t)}"><img src="${rel}images/${r.slug}.webp" alt="${title.replace(/"/g, '&quot;')}" width="${w >= h ? 480 : 360}"></a>`,
     '',
     L.short_note ? `> ${String(L.short_note).replace(/\n+/g, ' ')}\n` : '',
     fence(r.filled_prompt || r.original_prompt),
     '',
-    `- ${T.by}: [@${a.handle}](${a.profile_url || `https://x.com/${a.handle}`})`,
-    `- ${T.src}: ${r.source_url}`,
-    `- [${T.open}](${detail(r.slug, zh)})`,
+    `- ${t.by}: [@${a.handle}](${a.profile_url || `https://x.com/${a.handle}`})`,
+    `- ${t.src}: ${r.source_url}`,
+    `- [${t.open}](${detailL(r.slug, t)})`,
     '',
   ].join('\n');
 }
@@ -82,78 +88,51 @@ function card(r, zh, rel) {
 const byCat = categories
   .map((c) => ({ c, list: items.filter((r) => r.category === c.slug) }))
   .filter((x) => x.list.length);
+const K = cfg.featuredPerCategory || 6;
 const featuredFor = (list) => {
-  const fs_ = list.filter((r) => featured.includes(r.slug));
-  const rest = list.filter((r) => !featured.includes(r.slug));
-  return [...fs_, ...rest].slice(0, cfg.featuredPerCategory || 6);
+  const a = list.filter((r) => featured.includes(r.slug));
+  const b = list.filter((r) => !featured.includes(r.slug));
+  return [...a, ...b].slice(0, K);
 };
+const catName = (c, t) => t.cats?.[c.slug] || c.en?.name || c.slug;
 
-function legal(zh) {
-  return zh
-    ? `## 许可
-
-代码（scripts/、.github/）采用 MIT 许可，见 [LICENSE](LICENSE)。每条提示词均注明原作者和原帖链接。
-`
-    : `## License
-
-Code (scripts/, .github/) is MIT licensed, see [LICENSE](LICENSE). Each prompt credits its original author with a link to the original post.
-`;
-}
-
-function readme(zh) {
-  const name = (c) => (zh ? c.zh?.name : c.en?.name) || c.slug;
-  const out = [];
-  out.push(`# ${zh ? cfg.titleZh : cfg.title}`, '');
-  out.push(zh ? `[English](README.md) | 中文` : `English | [中文](README_zh.md)`, '');
-  out.push(
-    zh
-      ? `精选 **${items.length}** 条 ${cfg.modelName} 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](${modelPage(true)}) 提示词库，自动同步更新。`
-      : `A curated list of **${items.length}** ${cfg.modelName} prompts. Each one has an example image, the full prompt, and credit to the original author with a link to the original post. Data comes from the [cinel.ai](${modelPage(false)}) prompt library and syncs automatically.`,
-    ''
-  );
-  out.push(zh ? `👉 [在 cinel.ai 浏览全部并在线生成](${modelPage(true)})` : `👉 [Browse all and generate online at cinel.ai](${modelPage(false)})`, '');
-  out.push(zh ? '## 目录' : '## Contents', '');
+function readme(t) {
+  const v = { model: cfg.modelName, n: items.length, modelPage: modelPageL(t) };
+  const out = [`# ${fill(t.title, v)}`, '', badges(''), ''];
+  out.push(fill(t.intro, v), '', `👉 [${t.browse}](${modelPageL(t)})`, '');
+  out.push(`## ${t.contents}`, '');
   for (const { c, list } of byCat)
-    out.push(`- [${name(c)}](#${c.slug}) (${list.length}) · [${zh ? '全部' : 'all'}](cases/${zh ? 'zh/' : ''}${c.slug}.md)`);
+    out.push(`- [${catName(c, t)}](#${c.slug}) (${list.length}) · [${t.all}](cases/${t.cases}${c.slug}.md)`);
   out.push('');
   for (const { c, list } of byCat) {
-    out.push(`<a id="${c.slug}"></a>`, '', `## ${name(c)}`, '');
-    out.push(
-      zh
-        ? `精选 ${Math.min(list.length, cfg.featuredPerCategory || 6)} 条 · [查看本类全部 ${list.length} 条](cases/zh/${c.slug}.md) · [cinel 分类页](${catPage(c.slug, true)})`
-        : `Featured ${Math.min(list.length, cfg.featuredPerCategory || 6)} · [See all ${list.length}](cases/${c.slug}.md) · [Category on cinel](${catPage(c.slug, false)})`,
-      ''
-    );
-    for (const r of featuredFor(list)) out.push(card(r, zh, ''));
+    out.push(`<a id="${c.slug}"></a>`, '', `## ${catName(c, t)}`, '');
+    out.push(`${fill(t.featured, { k: Math.min(list.length, K) })} · [${fill(t.seeAll, { n: list.length })}](cases/${t.cases}${c.slug}.md) · [${t.catOnCinel}](${catPageL(c.slug, t)})`, '');
+    for (const r of featuredFor(list)) out.push(card(r, t, ''));
   }
-  out.push(legal(zh));
+  out.push(`## ${t.licenseH}`, '', t.license, '');
   return out.join('\n');
 }
 
-function casePage(c, list, zh) {
-  const name = (zh ? c.zh?.name : c.en?.name) || c.slug;
-  const back = zh ? '../../README_zh.md' : '../README.md';
-  const rel = zh ? '../../' : '../';
+function casePage(c, list, t, depth) {
+  const rel = depth;
   return [
-    `# ${name} · ${cfg.modelName} ${zh ? '提示词' : 'Prompts'}`,
+    `# ${catName(c, t)} · ${cfg.modelName}`,
     '',
-    `[← ${zh ? '返回首页' : 'Back to README'}](${back}) · ${list.length} ${zh ? '条' : 'prompts'} · [cinel](${catPage(c.slug, zh)})`,
+    `[← README](${rel}${t.file}) · ${list.length} · [${t.catOnCinel}](${catPageL(c.slug, t)})`,
     '',
-    ...list.map((r) => card(r, zh, rel)),
-    '',
+    ...list.map((r) => card(r, t, rel)),
   ].join('\n');
 }
 
 fs.rmSync(path.join(ROOT, 'cases'), { recursive: true, force: true });
 fs.mkdirSync(path.join(ROOT, 'cases/zh'), { recursive: true });
 for (const { c, list } of byCat) {
-  fs.writeFileSync(path.join(ROOT, 'cases', `${c.slug}.md`), casePage(c, list, false));
-  fs.writeFileSync(path.join(ROOT, 'cases/zh', `${c.slug}.md`), casePage(c, list, true));
+  fs.writeFileSync(path.join(ROOT, 'cases', `${c.slug}.md`), casePage(c, list, I18N.en, '../'));
+  fs.writeFileSync(path.join(ROOT, 'cases/zh', `${c.slug}.md`), casePage(c, list, I18N.zh, '../../'));
 }
-fs.writeFileSync(path.join(ROOT, 'README.md'), readme(false));
-fs.writeFileSync(path.join(ROOT, 'README_zh.md'), readme(true));
+for (const t of Object.values(I18N)) fs.writeFileSync(path.join(ROOT, t.file), readme(t));
 fs.writeFileSync(
   path.join(ROOT, 'data.json'),
   JSON.stringify({ model: cfg.model, count: items.length, categories: Object.fromEntries(byCat.map(({ c, list }) => [c.slug, list.length])), slugs: items.map((r) => r.slug) }, null, 2) + '\n'
 );
-console.log(`${cfg.repo}: ${items.length} items, ${byCat.length} categories`);
+console.log(`${cfg.repo}: ${items.length} items, ${byCat.length} categories, ${Object.keys(I18N).length} READMEs`);

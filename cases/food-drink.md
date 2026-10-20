@@ -1,6 +1,6 @@
-# Food & Drink · Nano Banana 2.1 Prompts
+# Food & Drink · Nano Banana 2.1
 
-[← Back to README](../README.md) · 1 prompts · [cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 1 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Night-Market Flaming Wok Chef
 
@@ -15,4 +15,3 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 - Author: [@fatih_ogpu](https://x.com/fatih_ogpu)
 - Original post: https://x.com/fatih_ogpu/status/2109630235134095673
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/night-market-flaming-wok-chef?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

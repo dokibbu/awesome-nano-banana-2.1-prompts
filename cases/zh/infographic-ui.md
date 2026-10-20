@@ -1,6 +1,6 @@
-# 信息图与 UI · Nano Banana 2.1 提示词
+# 信息图与 UI · Nano Banana 2.1
 
-[← 返回首页](../../README_zh.md) · 1 条 · [cinel](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 1 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 文字与物件融合的标志网格
 
@@ -15,4 +15,3 @@
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2110060246215635036
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

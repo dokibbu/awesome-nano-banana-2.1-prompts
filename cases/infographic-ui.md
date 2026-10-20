@@ -1,6 +1,6 @@
-# Infographics & UI · Nano Banana 2.1 Prompts
+# Infographics & UI · Nano Banana 2.1
 
-[← Back to README](../README.md) · 1 prompts · [cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 1 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Typographic Object Logo Mark Grid
 
@@ -15,4 +15,3 @@
 - Author: [@Gdgtify](https://x.com/Gdgtify)
 - Original post: https://x.com/Gdgtify/status/2110060246215635036
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

@@ -1,6 +1,6 @@
-# 美食饮品 · Nano Banana 2.1 提示词
+# 美食饮品 · Nano Banana 2.1
 
-[← 返回首页](../../README_zh.md) · 1 条 · [cinel](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 1 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 夜市烈火炒锅大厨
 
@@ -15,4 +15,3 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 - 原作者: [@fatih_ogpu](https://x.com/fatih_ogpu)
 - 原帖: https://x.com/fatih_ogpu/status/2109630235134095673
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/night-market-flaming-wok-chef?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

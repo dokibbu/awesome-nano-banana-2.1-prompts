@@ -1,6 +1,6 @@
-# Creative Scenes · Nano Banana 2.1 Prompts
+# Creative Scenes · Nano Banana 2.1
 
-[← Back to README](../README.md) · 15 prompts · [cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 15 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 
@@ -225,4 +225,3 @@ Cinematic concert still, square 1:1: a headless horseman figure mid-solo on a cr
 - Author: [@RealLeeForest](https://x.com/RealLeeForest)
 - Original post: https://x.com/RealLeeForest/status/2109057357926085014
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/hollow-stage-pumpkin-head-solo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

@@ -1,6 +1,6 @@
-# Illustration & Anime · Nano Banana 2.1 Prompts
+# Illustration & Anime · Nano Banana 2.1
 
-[← Back to README](../README.md) · 6 prompts · [cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 6 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Nine-Tailed Fox Goddess in a Storm
 
@@ -95,4 +95,3 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 - Author: [@churvikv](https://x.com/churvikv)
 - Original post: https://x.com/churvikv/status/2110031241139360215
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

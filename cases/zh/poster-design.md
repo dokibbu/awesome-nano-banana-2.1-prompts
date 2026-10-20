@@ -1,6 +1,6 @@
-# 海报与平面设计 · Nano Banana 2.1 提示词
+# 海报与平面设计 · Nano Banana 2.1
 
-[← 返回首页](../../README_zh.md) · 2 条 · [cinel](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 2 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 中世纪复古旅行海报
 
@@ -66,4 +66,3 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 - 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - 原帖: https://x.com/Naiknelofar788/status/2109612639727009914
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

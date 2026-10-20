@@ -1,6 +1,6 @@
-# 3D Characters & Figurines · Nano Banana 2.1 Prompts
+# 3D Characters & Figurines · Nano Banana 2.1
 
-[← Back to README](../README.md) · 4 prompts · [cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 4 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -57,4 +57,3 @@ Cute anthropomorphic croissant mascot, full body, front three-quarter view, real
 - Author: [@azed_ai](https://x.com/azed_ai)
 - Original post: https://x.com/azed_ai/status/2108511815181434974
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

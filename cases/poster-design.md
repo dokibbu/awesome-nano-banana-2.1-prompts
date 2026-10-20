@@ -1,6 +1,6 @@
-# Posters, Logos & Graphic Design · Nano Banana 2.1 Prompts
+# Posters, Logos & Graphic Design · Nano Banana 2.1
 
-[← Back to README](../README.md) · 2 prompts · [cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 2 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Mid-Century Vintage Travel Poster
 
@@ -66,4 +66,3 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 - Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - Original post: https://x.com/Naiknelofar788/status/2109612639727009914
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

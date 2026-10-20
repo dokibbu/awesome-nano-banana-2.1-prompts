@@ -1,6 +1,6 @@
-# Portrait & Headshot · Nano Banana 2.1 Prompts
+# Portrait & Headshot · Nano Banana 2.1
 
-[← Back to README](../README.md) · 12 prompts · [cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 12 · [Category on cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Crimson Accent Black-and-White Street Walk
 
@@ -169,4 +169,3 @@ Fine-art photoreal portrait, square 1:1: a mysterious figure whose entire head i
 - Author: [@lexx_aura](https://x.com/lexx_aura)
 - Original post: https://x.com/lexx_aura/status/1984176759152025635
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/gothic-stitched-pumpkin-head-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

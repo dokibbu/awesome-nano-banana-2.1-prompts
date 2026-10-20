@@ -1,6 +1,6 @@
-# 人像写真 · Nano Banana 2.1 提示词
+# 人像写真 · Nano Banana 2.1
 
-[← 返回首页](../../README_zh.md) · 12 条 · [cinel](https://cinel.ai/zh/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 12 · [cinel 分类页](https://cinel.ai/zh/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 黑白街拍中的一抹深红
 
@@ -169,4 +169,3 @@ Fine-art photoreal portrait, square 1:1: a mysterious figure whose entire head i
 - 原作者: [@lexx_aura](https://x.com/lexx_aura)
 - 原帖: https://x.com/lexx_aura/status/1984176759152025635
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/gothic-stitched-pumpkin-head-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

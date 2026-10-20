@@ -1,6 +1,6 @@
-# 插画与动漫 · Nano Banana 2.1 提示词
+# 插画与动漫 · Nano Banana 2.1
 
-[← 返回首页](../../README_zh.md) · 6 条 · [cinel](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 6 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 风暴中的九尾狐神女
 
@@ -95,4 +95,3 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 - 原作者: [@churvikv](https://x.com/churvikv)
 - 原帖: https://x.com/churvikv/status/2110031241139360215
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-

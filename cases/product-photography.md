@@ -1,6 +1,6 @@
-# Product & E-commerce · Nano Banana 2.1 Prompts
+# Product & E-commerce · Nano Banana 2.1
 
-[← Back to README](../README.md) · 2 prompts · [cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 2 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Packaging Second-Life Transformation Sheet
 
@@ -29,4 +29,3 @@ Museum-style product still life of a Renaissance-style jewel pendant: a small sw
 - Author: [@HerodotusWave](https://x.com/HerodotusWave)
 - Original post: https://x.com/HerodotusWave/status/2109713964187697407
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/baroque-pearl-swan-pendant-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-
