@@ -13,9 +13,9 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Una raccolta selezionata di **43** prompt per Nano Banana 2.1. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e si sincronizzano automaticamente.
+Una raccolta selezionata di **43** prompt per Nano Banana 2.1. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e si sincronizzano automaticamente.
 
-👉 [Sfoglia tutto e genera online su cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+👉 [Sfoglia tutto e genera online su cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ## Indice
 
@@ -32,11 +32,11 @@ Una raccolta selezionata di **43** prompt per Nano Banana 2.1. Ognuno include un
 
 ## Ritratti e headshot
 
-6 in evidenza · [Vedi tutti i 12](cases/portrait.md) · [Categoria su cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 in evidenza · [Vedi tutti i 12](cases/portrait.md) · [Categoria su cinel](https://cinel.ai/it/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Crimson Accent Black-and-White Street Walk
 
-<a href="https://cinel.ai/prompts/p/crimson-accent-black-white-street-walk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/crimson-accent-black-white-street-walk.webp" alt="Crimson Accent Black-and-White Street Walk" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/crimson-accent-black-white-street-walk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/crimson-accent-black-white-street-walk.webp" alt="Crimson Accent Black-and-White Street Walk" width="480"></a>
 
 > A four-slot template from @azed_ai called Crimson Footsteps. Name a subject, a historic European location, an elegant outfit and one accessory; the photo turns monochrome except that accessory, rendered in vivid ruby red. Weathered architecture, diffused morning light and 35mm grain give it an editorial street feel. We used a woman in a charcoal coat with a red beret and gloves in old Lisbon. Use it for fashion lookbooks, travel posts and moody editorials.
 
@@ -46,11 +46,11 @@ Cinematic black-and-white photograph of a young woman walking through a cobblest
 
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2110687901055131952
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/crimson-accent-black-white-street-walk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/crimson-accent-black-white-street-walk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Sculptural Collar Couture Editorial Portrait
 
-<a href="https://cinel.ai/prompts/p/sculptural-collar-couture-editorial-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/sculptural-collar-couture-editorial-portrait.webp" alt="Sculptural Collar Couture Editorial Portrait" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/sculptural-collar-couture-editorial-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/sculptural-collar-couture-editorial-portrait.webp" alt="Sculptural Collar Couture Editorial Portrait" width="480"></a>
 
 > A detailed editorial portrait prompt from @MissDelulu9, made with Nano Banana 2.1. It describes a fictional adult model feature by feature (blue-grey eyes, coral-red lips, winged liner, a sleek low ponytail), then the outfit: a deep burgundy satin couture dress with an exaggerated sculptural high collar and gold geometric earrings, in an over-the-shoulder pose on a sage-and-turquoise gradient backdrop. It suits the Paris-runway mood this week. Use it for fashion moodboards, beauty campaigns and editorial tests.
 
@@ -60,11 +60,11 @@ Create an ultra-realistic, high-fashion editorial portrait of an adult woman wit
 
 - Autore: [@MissDelulu9](https://x.com/MissDelulu9)
 - Post originale: https://x.com/MissDelulu9/status/2109630710642528421
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/sculptural-collar-couture-editorial-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/sculptural-collar-couture-editorial-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Fur and Vinyl Street Style Crosswalk
 
-<a href="https://cinel.ai/prompts/p/fur-and-vinyl-street-style-crosswalk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/fur-and-vinyl-street-style-crosswalk.webp" alt="Fur and Vinyl Street Style Crosswalk" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/fur-and-vinyl-street-style-crosswalk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/fur-and-vinyl-street-style-crosswalk.webp" alt="Fur and Vinyl Street Style Crosswalk" width="480"></a>
 
 > A street-style prompt from @Tanvir48992. A woman crosses a downtown street mid-stride and glances back, in a cropped midnight-navy faux-fur jacket over a floor-length black patent vinyl gown, with cat-eye sunglasses, pearl drops and fur-trimmed gloves. Crisp winter sun, an 85mm lens and cool film-noir grading do the rest. We changed 'Vogue street-style' to a generic 'magazine street-style' and kept the car unbranded. Use it for fashion-week content, lookbooks and editorial tests.
 
@@ -74,11 +74,11 @@ Candid high-fashion street style photograph of a woman mid-stride crossing a cit
 
 - Autore: [@Tanvir48992](https://x.com/Tanvir48992)
 - Post originale: https://x.com/Tanvir48992/status/2108914406864347222
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/fur-and-vinyl-street-style-crosswalk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/fur-and-vinyl-street-style-crosswalk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Pink Car Surprise Parking Lot Reveal
 
-<a href="https://cinel.ai/prompts/p/pink-car-surprise-parking-lot-reveal?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/pink-car-surprise-parking-lot-reveal.webp" alt="Pink Car Surprise Parking Lot Reveal" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/pink-car-surprise-parking-lot-reveal?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/pink-car-surprise-parking-lot-reveal.webp" alt="Pink Car Surprise Parking Lot Reveal" width="480"></a>
 
 > Adapted from a 11-second TapNow video prompt by @Just_sharon7. The original is a handheld, friend-filmed reveal: a bubbly pink-haired woman in Y2K accessories holds up a card, lowers it to reveal a pastel-pink sports sedan, and ends in a dramatic gasp. We used the final reaction beat as the key frame and kept the car unbadged. The handheld angle and bright midday light keep it social-native. Use it for UGC-style ads, reaction thumbnails and lifestyle posts.
 
@@ -88,11 +88,11 @@ A single key frame shot handheld from slightly above eye level, as if a friend i
 
 - Autore: [@Just_sharon7](https://x.com/Just_sharon7)
 - Post originale: https://x.com/Just_sharon7/status/2109662458269040721
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/pink-car-surprise-parking-lot-reveal?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/pink-car-surprise-parking-lot-reveal?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Dunhuang Flying Apsara in a Moonlit Courtyard
 
-<a href="https://cinel.ai/prompts/p/dunhuang-flying-apsara-moonlit-courtyard?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/dunhuang-flying-apsara-moonlit-courtyard.webp" alt="Dunhuang Flying Apsara in a Moonlit Courtyard" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/dunhuang-flying-apsara-moonlit-courtyard?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/dunhuang-flying-apsara-moonlit-courtyard.webp" alt="Dunhuang Flying Apsara in a Moonlit Courtyard" width="480"></a>
 
 > Adapted from a 13-shot Chinese fantasy video prompt by @jackchen1919. The master prompt alternates a moonlit palace courtyard with a starry Dunhuang mural dreamscape and specifies dappled leaf shadows, a golden halo, Black Pro-Mist glow, teal-and-amber split toning and slow-motion silk. We condensed it into the opening sleeve-swing shot as one key frame. It is a generic Dunhuang-inspired figure, not a specific character. Use it for guofeng fashion posters, Hanfu shoots and cultural campaigns.
 
@@ -102,11 +102,11 @@ A single key frame from an Eastern fantasy fashion film: a graceful young woman 
 
 - Autore: [@jackchen1919](https://x.com/jackchen1919)
 - Post originale: https://x.com/jackchen1919/status/2110232484638343400
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/dunhuang-flying-apsara-moonlit-courtyard?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/dunhuang-flying-apsara-moonlit-courtyard?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Tang Sanzang Fashion Editorial On Set
 
-<a href="https://cinel.ai/prompts/p/tang-sanzang-fashion-editorial-on-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/tang-sanzang-fashion-editorial-on-set.webp" alt="Tang Sanzang Fashion Editorial On Set" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/tang-sanzang-fashion-editorial-on-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/tang-sanzang-fashion-editorial-on-set.webp" alt="Tang Sanzang Fashion Editorial On Set" width="480"></a>
 
 > A reverse-written prompt based on an image posted by @KOF97AI for this week's 'Journey to the West goes high fashion' trend (the post had no prompt). We described a Tang Sanzang-inspired monk in our own words: a calm monk in a tailored rust-brown and saffron robe with a draped gold kasaya and a five-petal golden crown, standing on a grey backdrop surrounded by softboxes, a tripod camera and taped notes. Journey to the West is a classical public-domain novel; this is a generic interpretation, not any film, show or game design. Use it for themed fashion posts, cultural campaigns and character-redesign series.
 
@@ -116,17 +116,17 @@ Behind-the-scenes photo of a fashion magazine shoot: a monk inspired by Tang San
 
 - Autore: [@KOF97AI](https://x.com/KOF97AI)
 - Post originale: https://x.com/KOF97AI/status/2110670208054460752
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/tang-sanzang-fashion-editorial-on-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/tang-sanzang-fashion-editorial-on-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="product-photography"></a>
 
 ## Prodotti ed e-commerce
 
-2 in evidenza · [Vedi tutti i 2](cases/product-photography.md) · [Categoria su cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+2 in evidenza · [Vedi tutti i 2](cases/product-photography.md) · [Categoria su cinel](https://cinel.ai/it/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Packaging Second-Life Transformation Sheet
 
-<a href="https://cinel.ai/prompts/p/packaging-second-life-transformation?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/packaging-second-life-transformation.webp" alt="Packaging Second-Life Transformation Sheet" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/packaging-second-life-transformation?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/packaging-second-life-transformation.webp" alt="Packaging Second-Life Transformation Sheet" width="480"></a>
 
 > A product-concept template from @Gdgtify. You name a product and a secondary function, and it lays out a launch sheet in four states (sealed, opening, transformation, second life), with folding systems, locks, perforations, hidden parts, dieline fragments and material samples, styled as Japanese paper engineering for a premium launch. It warns against greenwashing visuals. We used wireless headphones whose box becomes a desk stand, kept generic and unbranded. Use it for design pitches, portfolios and sustainability decks.
 
@@ -136,11 +136,11 @@ Behind-the-scenes photo of a fashion magazine shoot: a monk inspired by Tang San
 
 - Autore: [@Gdgtify](https://x.com/Gdgtify)
 - Post originale: https://x.com/Gdgtify/status/2109404928418730378
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/packaging-second-life-transformation?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/packaging-second-life-transformation?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Baroque Pearl Swan Pendant Still Life
 
-<a href="https://cinel.ai/prompts/p/baroque-pearl-swan-pendant-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/baroque-pearl-swan-pendant-still.webp" alt="Baroque Pearl Swan Pendant Still Life" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/baroque-pearl-swan-pendant-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/baroque-pearl-swan-pendant-still.webp" alt="Baroque Pearl Swan Pendant Still Life" width="480"></a>
 
 > A reverse-written prompt inspired by a post from @HerodotusWave about a 16th-century pendant whose swan body is a natural baroque pearl (the post had a museum photo and no prompt). We wrote an original still-life prompt for a Renaissance-style jewel: an irregular pearl belly, gold and enamel neck, wings and feet, small gems and fine chains on dark velvet. Our image is AI-generated, not the museum object. Use it for jewelry concepts, editorial still lifes and history posts.
 
@@ -150,17 +150,17 @@ Museum-style product still life of a Renaissance-style jewel pendant: a small sw
 
 - Autore: [@HerodotusWave](https://x.com/HerodotusWave)
 - Post originale: https://x.com/HerodotusWave/status/2109713964187697407
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/baroque-pearl-swan-pendant-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/baroque-pearl-swan-pendant-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="poster-design"></a>
 
 ## Poster, loghi e grafica
 
-2 in evidenza · [Vedi tutti i 2](cases/poster-design.md) · [Categoria su cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+2 in evidenza · [Vedi tutti i 2](cases/poster-design.md) · [Categoria su cinel](https://cinel.ai/it/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Mid-Century Vintage Travel Poster
 
-<a href="https://cinel.ai/prompts/p/mid-century-vintage-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/mid-century-vintage-travel-poster.webp" alt="Mid-Century Vintage Travel Poster" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/mid-century-vintage-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/mid-century-vintage-travel-poster.webp" alt="Mid-Century Vintage Travel Poster" width="480"></a>
 
 > A destination template from @Goodmanprotocol for GPT Image 2.5, explicitly text-only with no reference image. It turns a place into a colourful 1950s–60s travel poster inspired by hand-painted Nubian village architecture: flat geometric forms, wall patterns, local landmarks, a warm sun, bold retro type and a sun-faded turquoise, terracotta and butter-yellow palette. We chose Aswan, Egypt, with domed houses, palms and a felucca on the Nile. Use it for travel prints, tourism posts and wall art.
 
@@ -170,11 +170,11 @@ Create a premium full-frame square 1:1 vintage travel poster for Aswan, Egypt. T
 
 - Autore: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - Post originale: https://x.com/Goodmanprotocol/status/2109665636700057789
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/mid-century-vintage-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/mid-century-vintage-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Vintage Culture Magazine Collage Cover
 
-<a href="https://cinel.ai/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/vintage-culture-magazine-collage-cover.webp" alt="Vintage Culture Magazine Collage Cover" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/vintage-culture-magazine-collage-cover.webp" alt="Vintage Culture Magazine Collage Cover" width="480"></a>
 
 > A GPT Image 2.5 prompt template by @Naiknelofar788 for a 'THE CULTURE ISSUE' travel magazine cover. A hero landmark photo is layered with torn-paper cutouts of streets, food and crafts, map fragments and handwritten notes on aged cream paper. We filled it with Kyoto, Japan and changed the format from 4:5 to square. Use it for travel zines, destination guides and tourism campaigns.
 
@@ -221,17 +221,17 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 
 - Autore: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - Post originale: https://x.com/Naiknelofar788/status/2109612639727009914
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="infographic-ui"></a>
 
 ## Infografiche e UI
 
-1 in evidenza · [Vedi tutti i 1](cases/infographic-ui.md) · [Categoria su cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+1 in evidenza · [Vedi tutti i 1](cases/infographic-ui.md) · [Categoria su cinel](https://cinel.ai/it/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Typographic Object Logo Mark Grid
 
-<a href="https://cinel.ai/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/typographic-object-logo-mark-grid.webp" alt="Typographic Object Logo Mark Grid" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/typographic-object-logo-mark-grid.webp" alt="Typographic Object Logo Mark Grid" width="480"></a>
 
 > A typography template from @Gdgtify. It breaks letters into glyph anatomy (stem, bowl, counter, ascender, terminal, swash) and objects into body, handle, opening and tip, then maps one onto the other so the object becomes the word while every counter stays readable. We ran it for four jobs of the future in one 2x2 square: drone pilot, ocean farmer, memory archivist and robot carer. Use it for logo exploration, workshop exercises and identity moodboards.
 
@@ -241,17 +241,17 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 
 - Autore: [@Gdgtify](https://x.com/Gdgtify)
 - Post originale: https://x.com/Gdgtify/status/2110060246215635036
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="3d-figurines"></a>
 
 ## Personaggi e figure 3D
 
-4 in evidenza · [Vedi tutti i 4](cases/3d-figurines.md) · [Categoria su cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+4 in evidenza · [Vedi tutti i 4](cases/3d-figurines.md) · [Categoria su cinel](https://cinel.ai/it/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
-<a href="https://cinel.ai/prompts/p/toy-bubble-letter-topic-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/toy-bubble-letter-topic-diorama.webp" alt="Toy Bubble Letter Topic Diorama Grid" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/toy-bubble-letter-topic-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/toy-bubble-letter-topic-diorama.webp" alt="Toy Bubble Letter Topic Diorama Grid" width="480"></a>
 
 > A code-style template from @Gdgtify that works in Nano Banana 2.1 and GPT Image 2.5. It defines a ToyBubbleDiorama class: for each topic the model derives a short title, a core moment, three iconic props, mini characters and a base, then renders chunky rounded bubble letters in soft toy plastic or clay surrounded by the props. We ran it for creativity, hope, science and fortitude in one 2x2 square. Use it for class posters, values walls and explainer carousels.
 
@@ -261,11 +261,11 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 
 - Autore: [@Gdgtify](https://x.com/Gdgtify)
 - Post originale: https://x.com/Gdgtify/status/2109732587099070660
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/toy-bubble-letter-topic-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/toy-bubble-letter-topic-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Tiny Alien Engineers Build a Mars Spacecraft
 
-<a href="https://cinel.ai/prompts/p/tiny-alien-engineers-mars-spacecraft-factory?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/tiny-alien-engineers-mars-spacecraft-factory.webp" alt="Tiny Alien Engineers Build a Mars Spacecraft" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/tiny-alien-engineers-mars-spacecraft-factory?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/tiny-alien-engineers-mars-spacecraft-factory.webp" alt="Tiny Alien Engineers Build a Mars Spacecraft" width="480"></a>
 
 > Adapted from a 30-second Seedance 2.5 video prompt by @Fujimoto_hina. The original JSON storyboard follows three original mini engineers (mint, lavender and peach) as they assemble the AEGON-01 spacecraft in a gigantic handcrafted factory for a fictional aerospace brand. We turned it into one key frame on the scaffolding, keeping the crew, suits, copper-gold insulation, blue solar arrays and the strong sense of scale, and left out the brand sign. Use it for science-themed ads, kids' STEM posters and animation pitches.
 
@@ -275,11 +275,11 @@ A single key frame from a photorealistic miniature diorama commercial: three cut
 
 - Autore: [@Fujimoto_hina](https://x.com/Fujimoto_hina)
 - Post originale: https://x.com/Fujimoto_hina/status/2109923277053501452
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/tiny-alien-engineers-mars-spacecraft-factory?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/tiny-alien-engineers-mars-spacecraft-factory?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Knitted Creature with a Leaf Umbrella
 
-<a href="https://cinel.ai/prompts/p/knitted-creature-leaf-umbrella-rooftop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/knitted-creature-leaf-umbrella-rooftop.webp" alt="Knitted Creature with a Leaf Umbrella" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/knitted-creature-leaf-umbrella-rooftop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/knitted-creature-leaf-umbrella-rooftop.webp" alt="Knitted Creature with a Leaf Umbrella" width="480"></a>
 
 > Adapted from a one-sentence video prompt that @KorpiAi ran through five video models in one test. The creature is a tiny knitted wool character with three button eyes and long noodle arms who tiptoes across a rainy neon rooftop, stops, looks at the camera and pops open a leaf umbrella. We froze the umbrella-pop moment. It is short and easy to reuse. Use it for cozy mascots, rainy-day posts and stop-motion style tests.
 
@@ -289,11 +289,11 @@ A single key frame: a tiny knitted wool creature with three button eyes and long
 
 - Autore: [@KorpiAi](https://x.com/KorpiAi)
 - Post originale: https://x.com/KorpiAi/status/2108687594913738792
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/knitted-creature-leaf-umbrella-rooftop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/knitted-creature-leaf-umbrella-rooftop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Food Mascot in High-Top Sneakers 3D
 
-<a href="https://cinel.ai/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/food-mascot-high-top-sneakers-3d.webp" alt="Food Mascot in High-Top Sneakers 3D" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/food-mascot-high-top-sneakers-3d.webp" alt="Food Mascot in High-Top Sneakers 3D" width="480"></a>
 
 > A 'Food Mascot' prompt template shared by @azed_ai. It turns any food into a photoreal 3D character with real surface texture, glossy eyes, thin arms, white cartoon gloves and chunky high-top sneakers, lit like a studio shot. We filled it with a golden-brown croissant in cherry-red sneakers. Use it for bakery and snack branding, menu mascots and stickers.
 
@@ -303,17 +303,17 @@ Cute anthropomorphic croissant mascot, full body, front three-quarter view, real
 
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2108511815181434974
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="food-drink"></a>
 
 ## Cibo e bevande
 
-1 in evidenza · [Vedi tutti i 1](cases/food-drink.md) · [Categoria su cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+1 in evidenza · [Vedi tutti i 1](cases/food-drink.md) · [Categoria su cinel](https://cinel.ai/it/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Night-Market Flaming Wok Chef
 
-<a href="https://cinel.ai/prompts/p/night-market-flaming-wok-chef?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/night-market-flaming-wok-chef.webp" alt="Night-Market Flaming Wok Chef" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/night-market-flaming-wok-chef?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/night-market-flaming-wok-chef.webp" alt="Night-Market Flaming Wok Chef" width="480"></a>
 
 > Adapted from a video comparison posted by @fatih_ogpu, who ran the same short brief (a night-market chef, a flaming wok, flying noodles) through Kling 3.0 Omni and Seedance 2.5. The full prompt was not posted, so we wrote the still from that brief and the thumbnail: a high noodle toss, a tall burst of flame, steam, and strings of warm bulbs. Use it for restaurant ads, food-festival posters and cooking-channel thumbnails.
 
@@ -323,17 +323,17 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 - Autore: [@fatih_ogpu](https://x.com/fatih_ogpu)
 - Post originale: https://x.com/fatih_ogpu/status/2109630235134095673
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/night-market-flaming-wok-chef?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/night-market-flaming-wok-chef?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="illustration-anime"></a>
 
 ## Illustrazione e anime
 
-6 in evidenza · [Vedi tutti i 6](cases/illustration-anime.md) · [Categoria su cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 in evidenza · [Vedi tutti i 6](cases/illustration-anime.md) · [Categoria su cinel](https://cinel.ai/it/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Nine-Tailed Fox Goddess in a Storm
 
-<a href="https://cinel.ai/prompts/p/nine-tailed-fox-goddess-storm?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/nine-tailed-fox-goddess-storm.webp" alt="Nine-Tailed Fox Goddess in a Storm" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/nine-tailed-fox-goddess-storm?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/nine-tailed-fox-goddess-storm.webp" alt="Nine-Tailed Fox Goddess in a Storm" width="480"></a>
 
 > A mythic portrait prompt from @Sirilee2026, posted with its short caption-style prompt (the longer version was in the comments). A fox goddess from Chinese folklore, in crimson and gold, closes her eyes in quiet divinity as silk, tassels and nine luminous tails flow in a stormy sky. We expanded the caption slightly with the tails, hair ornament and golden light. It fits this week's mythology-meets-fashion trend. Use it for fantasy covers, game key art and posters.
 
@@ -343,11 +343,11 @@ The nine-tailed fox goddess in crimson and gold, eyes closed in quiet divinity. 
 
 - Autore: [@Sirilee2026](https://x.com/Sirilee2026)
 - Post originale: https://x.com/Sirilee2026/status/2110685868033769884
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/nine-tailed-fox-goddess-storm?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/nine-tailed-fox-goddess-storm?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Autumn Lake Sketch on Gray Paper
 
-<a href="https://cinel.ai/prompts/p/autumn-lake-sketch-on-gray-paper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/autumn-lake-sketch-on-gray-paper.webp" alt="Autumn Lake Sketch on Gray Paper" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/autumn-lake-sketch-on-gray-paper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/autumn-lake-sketch-on-gray-paper.webp" alt="Autumn Lake Sketch on Gray Paper" width="480"></a>
 
 > A reverse-written prompt based on a wallpaper by @churvikv titled 'Autumn breathes warmth on gray paper' (no prompt was posted). We described it ourselves: a small loose pencil sketch that warms into watercolor at the centre, with orange trees, a peach sunrise, two swans and soft reflections, on lots of empty textured gray paper. Use it for phone wallpapers, greeting cards and calm seasonal posts.
 
@@ -357,11 +357,11 @@ A minimalist art wallpaper: on a textured gray paper background, a small loose p
 
 - Autore: [@churvikv](https://x.com/churvikv)
 - Post originale: https://x.com/churvikv/status/2109631329403113516
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/autumn-lake-sketch-on-gray-paper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/autumn-lake-sketch-on-gray-paper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### VHS Noir Pencil Sketch Scene
 
-<a href="https://cinel.ai/prompts/p/vhs-noir-pencil-sketch-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/vhs-noir-pencil-sketch-scene.webp" alt="VHS Noir Pencil Sketch Scene" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/vhs-noir-pencil-sketch-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/vhs-noir-pencil-sketch-scene.webp" alt="VHS Noir Pencil Sketch Scene" width="480"></a>
 
 > From @azed_ai's 'VHS Noir Sketch' prompt share. It mixes two looks: a candid 1990s handheld VHS frame and a loose illustrator's pencil sketch with erased and redrawn lines. We filled it with a saxophonist taking a break between sets in a rainy alley behind a jazz club. Swap the subject and setting for music posters, zine art and moody storyboards.
 
@@ -371,11 +371,11 @@ Retro 1990s handheld VHS of a saxophonist taking a break between sets, leaning o
 
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2109600238428463125
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/vhs-noir-pencil-sketch-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/vhs-noir-pencil-sketch-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Ink Architectural Street Sketch
 
-<a href="https://cinel.ai/prompts/p/ink-architectural-street-sketch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/ink-architectural-street-sketch.webp" alt="Ink Architectural Street Sketch" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/ink-architectural-street-sketch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/ink-architectural-street-sketch.webp" alt="Ink Architectural Street Sketch" width="480"></a>
 
 > From @Naiknelofar788's 'Streets of the World' series. The prompt asks for a black-and-white fine-liner sketch of a real street, with cross-hatching, cobblestones, a vintage car and bare trees, and an accurate landmark at the center. We used Prague's Old Town Hall clock tower and switched the ratio from 4:5 to 1:1. Use it for travel journals, city prints and postcards.
 
@@ -395,11 +395,11 @@ Aspect ratio: 1:1 — square composition.
 
 - Autore: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - Post originale: https://x.com/Naiknelofar788/status/2110593708953686148
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/ink-architectural-street-sketch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/ink-architectural-street-sketch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Gothic Ink Anime Sword Duel Key Frame
 
-<a href="https://cinel.ai/prompts/p/gothic-ink-anime-sword-duel-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/gothic-ink-anime-sword-duel-keyframe.webp" alt="Gothic Ink Anime Sword Duel Key Frame" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/gothic-ink-anime-sword-duel-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/gothic-ink-anime-sword-duel-keyframe.webp" alt="Gothic Ink Anime Sword Duel Key Frame" width="480"></a>
 
 > Adapted from a Seedance 2.5 video prompt by @aimikoda, posted as a reply under her anime duel clip. The original describes an ultra-fast sword fight in gothic ink anime style: black linework, charcoal shading, violet skin tones and neon pink, acid green and prismatic sparks. Its look leans on a reference image, so we described the two original swordswomen in words. We froze one blade lock in a ruined cathedral. Use it for anime key art, game splash screens and fantasy book covers.
 
@@ -409,11 +409,11 @@ A single key frame from a dark fantasy 2D anime film fused with gothic ink illus
 
 - Autore: [@aimikoda](https://x.com/aimikoda)
 - Post originale: https://x.com/aimikoda/status/2109235247162245339
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/gothic-ink-anime-sword-duel-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/gothic-ink-anime-sword-duel-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Impasto Rainy Umbrella Street Key Frame
 
-<a href="https://cinel.ai/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/impasto-rainy-umbrella-street-keyframe.webp" alt="Impasto Rainy Umbrella Street Key Frame" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/impasto-rainy-umbrella-street-keyframe.webp" alt="Impasto Rainy Umbrella Street Key Frame" width="480"></a>
 
 > Adapted from a Seedance 2.5 video prompt by @churvikv, posted with the line 'the rain sounds like applause'. The original is an 8-second clip in thick palette-knife oil paint: a woman in an orange coat with a transparent umbrella, buses passing, lamps glowing, leaves falling. We turned it into one still frame. Use it for autumn posters, book covers and mood wallpapers.
 
@@ -423,17 +423,17 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 
 - Autore: [@churvikv](https://x.com/churvikv)
 - Post originale: https://x.com/churvikv/status/2110031241139360215
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="scenes-creative"></a>
 
 ## Scene creative
 
-6 in evidenza · [Vedi tutti i 15](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 in evidenza · [Vedi tutti i 15](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/it/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 
-<a href="https://cinel.ai/prompts/p/silhouette-tree-city-sunset-composite?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/silhouette-tree-city-sunset-composite.webp" alt="Silhouette Tree and City Sunset Composite" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/silhouette-tree-city-sunset-composite?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/silhouette-tree-city-sunset-composite.webp" alt="Silhouette Tree and City Sunset Composite" width="480"></a>
 
 > A structured landscape prompt from @churvikv, made for GPT Image 2.5. It is written in labelled blocks (SKY, SUN, TREE, CITY), and each block sets one layer: an amber-to-blue sky with streaky cirrus, a huge round sun at dead centre, a vast spreading tree in pure black silhouette, and black skyscrapers flanking it. The tree-versus-city contrast carries the story. We kept the layout and switched it to square. Use it for wallpapers, album covers and calm, poetic posters.
 
@@ -443,11 +443,11 @@ Photorealistic silhouette sunset composite, square 1:1 composition, cinematic, u
 
 - Autore: [@churvikv](https://x.com/churvikv)
 - Post originale: https://x.com/churvikv/status/2110114825082945740
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/silhouette-tree-city-sunset-composite?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/silhouette-tree-city-sunset-composite?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Neon Yacht in a Moonlit Harbour
 
-<a href="https://cinel.ai/prompts/p/neon-yacht-moonlit-harbour?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/neon-yacht-moonlit-harbour.webp" alt="Neon Yacht in a Moonlit Harbour" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/neon-yacht-moonlit-harbour?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/neon-yacht-moonlit-harbour.webp" alt="Neon Yacht in a Moonlit Harbour" width="480"></a>
 
 > A night-harbour prompt from @churvikv for GPT Image 2.5, in the same labelled-block style (HARBOUR, MOON, BOAT, HILLS). Calm black water with long smeared reflections, a huge cratered full moon, a sleek white yacht washed in ultraviolet magenta and electric cyan, and dark ridgelines behind. The neon-versus-moonlight colour split does most of the work. Use it for wallpapers, nightlife posters and synthwave-style covers.
 
@@ -457,11 +457,11 @@ Photorealistic night harbour scene, square 1:1 composition, cinematic, ultra-det
 
 - Autore: [@churvikv](https://x.com/churvikv)
 - Post originale: https://x.com/churvikv/status/2109710598972035578
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/neon-yacht-moonlit-harbour?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/neon-yacht-moonlit-harbour?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Full Moon Ridge House Fantasy Landscape
 
-<a href="https://cinel.ai/prompts/p/full-moon-ridge-house-fantasy-landscape?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/full-moon-ridge-house-fantasy-landscape.webp" alt="Full Moon Ridge House Fantasy Landscape" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/full-moon-ridge-house-fantasy-landscape?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/full-moon-ridge-house-fantasy-landscape.webp" alt="Full Moon Ridge House Fantasy Landscape" width="480"></a>
 
 > A fantasy landscape prompt from @churvikv, made with GPT Image 2.5 Flare. Labelled blocks build the scene: a star-dense sky with an amber nebula and a huge full moon, a jagged moonlit mountain, mist pooling in the valley, a weathered stone house with warm windows on a ridge, and a fiery orange tree in the foreground. Warm windows against cold moonlight give it a storybook feel. Use it for book covers, wallpapers and cozy fantasy art.
 
@@ -471,11 +471,11 @@ Surreal photorealistic night fantasy landscape, square 1:1 composition, cinemati
 
 - Autore: [@churvikv](https://x.com/churvikv)
 - Post originale: https://x.com/churvikv/status/2109362817786896480
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/full-moon-ridge-house-fantasy-landscape?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/full-moon-ridge-house-fantasy-landscape?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 3D Scrapbook Floating Photo Cutout
 
-<a href="https://cinel.ai/prompts/p/3d-scrapbook-floating-photo-cutout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/3d-scrapbook-floating-photo-cutout.webp" alt="3D Scrapbook Floating Photo Cutout" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/3d-scrapbook-floating-photo-cutout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/3d-scrapbook-floating-photo-cutout.webp" alt="3D Scrapbook Floating Photo Cutout" width="480"></a>
 
 > A mixed-media prompt from @Taaruk_. A realistic scene becomes a thick, curved paper cutout with layered edges and soft shadows, floating on warm ivory paper, while tiny hand-drawn stick figures push, lift and hold its edges beside a handwritten caption. The scene is described in text, so no upload is needed. We used the coastal-cliffs-and-lighthouse scene from the original. Use it for editorial covers, travel journals and playful brand posts.
 
@@ -485,11 +485,11 @@ Create a creative minimalist 3D scrapbook composition featuring a realistic phot
 
 - Autore: [@Taaruk_](https://x.com/Taaruk_)
 - Post originale: https://x.com/Taaruk_/status/2110655754927772000
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/3d-scrapbook-floating-photo-cutout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/3d-scrapbook-floating-photo-cutout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Abstract Concept as a Physical Phenomenon
 
-<a href="https://cinel.ai/prompts/p/abstract-concept-as-physical-phenomenon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/abstract-concept-as-physical-phenomenon.webp" alt="Abstract Concept as a Physical Phenomenon" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/abstract-concept-as-physical-phenomenon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/abstract-concept-as-physical-phenomenon.webp" alt="Abstract Concept as a Physical Phenomenon" width="480"></a>
 
 > A step-by-step template from @Gdgtify. It infers how a concept behaves (accumulates, leaks, erodes), assigns it one matching natural process, adds one ordinary person adapting to it with routine calm, and leaves an evidence trail of high-water marks and repairs. The render rules are strict: calm realism, overcast light, no labels, no text. We tried notification overload as a tide of glowing paper slips flooding a street. Use it for op-ed images, essay covers and concept art.
 
@@ -499,11 +499,11 @@ A single calm observational photograph that turns the abstract concept of notifi
 
 - Autore: [@Gdgtify](https://x.com/Gdgtify)
 - Post originale: https://x.com/Gdgtify/status/2109653566558437642
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/abstract-concept-as-physical-phenomenon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/abstract-concept-as-physical-phenomenon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### One-Word Prompt: Thoughts
 
-<a href="https://cinel.ai/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/one-word-prompt-thoughts.webp" alt="One-Word Prompt: Thoughts" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/one-word-prompt-thoughts.webp" alt="One-Word Prompt: Thoughts" width="480"></a>
 
 > Part of @AllaAisling's running one-word prompt series, where the whole prompt is a single word and the model decides everything else. 'Thoughts' tends to produce surreal head-and-mind metaphors. We used the bare word, unedited; our run came out as a quiet scene of a woman writing at a sunlit desk. Results vary every run, which is the point. Use it for creative warm-ups, model comparisons and idea sparks.
 
@@ -513,7 +513,7 @@ Thoughts
 
 - Autore: [@AllaAisling](https://x.com/AllaAisling)
 - Post originale: https://x.com/AllaAisling/status/2109313324504551930
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ## Licenza
 
