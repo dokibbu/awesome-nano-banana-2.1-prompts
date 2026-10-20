@@ -1,6 +1,6 @@
 # Content license / 内容版权
 
-**Code** in this repository (scripts/, .github/) is MIT licensed. **Content** (prompt texts, descriptions, example images) is not MIT and not CC0.
+**Code** in this repository (scripts/, .github/) is MIT licensed. **Content** (prompt texts, descriptions, example images) is not covered by the MIT license.
 
 - Each prompt is credited to its original author (X/Twitter @handle) with a link to the original post. Rights stay with those authors. We list them for reference and discovery with attribution.
 - Part of the prompt data is derived from **NanoBanana Trending Prompts** (https://github.com/jau123/nanobanana-trending-prompts) by **MeiGen.ai**, licensed under **CC BY 4.0** (https://creativecommons.org/licenses/by/4.0/). Changes were made: placeholders filled in, titles/notes written, example images regenerated with Nano Banana 2.1 by cinel.ai. This does not imply endorsement by MeiGen.ai.

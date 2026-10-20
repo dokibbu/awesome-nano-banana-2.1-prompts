@@ -507,5 +507,5 @@ Thoughts
 ## 许可与版权
 
 - 代码（scripts/、.github/）：MIT，见 [LICENSE](LICENSE)。
-- 提示词与示例：版权归各条目注明的原作者所有，**不是 CC0**。本仓库仅做索引和引用，每条都标注原作者和原帖链接。部分数据来自 MeiGen.ai 的 [NanoBanana Trending Prompts](https://github.com/jau123/nanobanana-trending-prompts)，遵循 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)；我们做了修改（补全占位符、用 Nano Banana 2.1 重新生成示例图）。详见 [CONTENT_LICENSE.md](CONTENT_LICENSE.md)。
+- 提示词与示例：版权归各条目注明的原作者所有。本仓库仅做索引和引用，每条都标注原作者和原帖链接。部分数据来自 MeiGen.ai 的 [NanoBanana Trending Prompts](https://github.com/jau123/nanobanana-trending-prompts)，遵循 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)；我们做了修改（补全占位符、用 Nano Banana 2.1 重新生成示例图）。详见 [CONTENT_LICENSE.md](CONTENT_LICENSE.md)。
 - 删除请求：如果你是原作者，希望删除或修改署名，请通过 [cinel.ai](https://cinel.ai) 联系我们，或在本仓库提 Issue，我们会尽快处理。

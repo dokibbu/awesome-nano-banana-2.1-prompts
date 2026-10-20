@@ -507,5 +507,5 @@ Thoughts
 ## License & credits
 
 - Code (scripts/, .github/): MIT, see [LICENSE](LICENSE).
-- Prompts and examples: rights belong to the original authors credited on each item. This is **not CC0**. Every entry links to the author and the original post. Part of the data comes from [NanoBanana Trending Prompts](https://github.com/jau123/nanobanana-trending-prompts) by MeiGen.ai, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); changes were made (placeholders filled, example images regenerated with Nano Banana 2.1). See [CONTENT_LICENSE.md](CONTENT_LICENSE.md).
+- Prompts and examples: rights belong to the original authors credited on each item. Every entry links to the author and the original post. Part of the data comes from [NanoBanana Trending Prompts](https://github.com/jau123/nanobanana-trending-prompts) by MeiGen.ai, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); changes were made (placeholders filled, example images regenerated with Nano Banana 2.1). See [CONTENT_LICENSE.md](CONTENT_LICENSE.md).
 - Takedown: if you are an original author and want an item removed or the credit changed, contact us via [cinel.ai](https://cinel.ai) or open an issue. We act on requests promptly.
