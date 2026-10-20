@@ -47,6 +47,14 @@ for (const r of items) {
 for (const f of fs.readdirSync(imgDir)) if (!keep.has(f)) fs.rmSync(path.join(imgDir, f));
 
 const I18N = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts/i18n.json'), 'utf8'));
+// Locales with siteProbe use the localized cinel.ai path only once the site serves it (HTTP 200).
+for (const t of Object.values(I18N)) {
+  if (!t.siteProbe) continue;
+  try {
+    const res = await fetch(`${SITE}${t.siteProbe}/prompts`, { redirect: 'manual', signal: AbortSignal.timeout(10000) });
+    if (res.status === 200) t.site = t.siteProbe;
+  } catch {}
+}
 const fill = (s, v) => String(s).replace(/\{(\w+)\}/g, (_, k) => v[k] ?? '');
 const detailL = (slug, t) => `${SITE}${t.site}/prompts/p/${slug}?${utm}`;
 const modelPageL = (t) => `${SITE}${t.site}/prompts/model/${cfg.modelPageSlug}?${utm}`;
