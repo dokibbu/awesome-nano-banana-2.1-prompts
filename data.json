@@ -1,12 +1,12 @@
 {
   "model": "nano-banana-2.1",
-  "count": 43,
+  "count": 46,
   "categories": {
     "portrait": 12,
     "product-photography": 2,
-    "poster-design": 2,
+    "poster-design": 3,
     "infographic-ui": 1,
-    "3d-figurines": 4,
+    "3d-figurines": 6,
     "food-drink": 1,
     "illustration-anime": 6,
     "scenes-creative": 15
@@ -54,6 +54,9 @@
     "glowing-sea-tower-storm-keyframe",
     "fire-winged-angel-silhouette-night",
     "gothic-stitched-pumpkin-head-portrait",
-    "hollow-stage-pumpkin-head-solo"
+    "hollow-stage-pumpkin-head-solo",
+    "whimsy-mechanical-owl-translucent-wings",
+    "macaron-house-chibi-cream-witch",
+    "split-photo-papercraft-cappadocia-poster"
   ]
 }

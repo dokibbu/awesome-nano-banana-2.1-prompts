@@ -1,6 +1,6 @@
 # Posters, Logos & Graphic Design · Nano Banana 2.1
 
-[← README](../README.md) · 2 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 3 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Mid-Century Vintage Travel Poster
 
@@ -66,3 +66,20 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 - Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - Original post: https://x.com/Naiknelofar788/status/2109612639727009914
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Split Photo–Papercraft Cappadocia Travel Poster
+
+<a href="https://cinel.ai/prompts/p/split-photo-papercraft-cappadocia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../images/split-photo-papercraft-cappadocia-poster.webp" alt="Split Photo–Papercraft Cappadocia Travel Poster" width="480"></a>
+
+> @Sairah_0 split-panel travel poster method (277 likes). Filled Cappadocia; square 1:1; text-to-image only (no user photo upload).
+
+```text
+Square 1:1 vertical split-panel travel poster of Cappadocia, Türkiye.
+TOP PANEL: wide-angle highly detailed vibrant photographic-style view of Cappadocia at dawn with hot-air balloons over fairy chimneys, soft golden light, crisp atmosphere (generated, not from an uploaded photo).
+BOTTOM PANEL: the exact same viewpoint rebuilt as layered 3D paper-craft cutouts with textured edges, real paper shadows, balloons and rock spires as stacked paper layers.
+Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poetic caption. No logos, no real people portraits, no brand marks.
+```
+
+- Author: [@Sairah_0](https://x.com/Sairah_0)
+- Original post: https://x.com/Sairah_0/status/2101555686060536233
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/split-photo-papercraft-cappadocia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

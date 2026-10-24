@@ -1,6 +1,6 @@
 # 海报与平面设计 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 2 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 3 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 中世纪复古旅行海报
 
@@ -66,3 +66,20 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 - 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - 原帖: https://x.com/Naiknelofar788/status/2109612639727009914
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 照片/纸艺对切卡帕多西亚旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/split-photo-papercraft-cappadocia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/split-photo-papercraft-cappadocia-poster.webp" alt="照片/纸艺对切卡帕多西亚旅行海报" width="480"></a>
+
+> @Sairah_0 对切旅行海报方法（277 赞）。填入卡帕多西亚；1:1；纯文生图（无用户上传照片）。
+
+```text
+Square 1:1 vertical split-panel travel poster of Cappadocia, Türkiye.
+TOP PANEL: wide-angle highly detailed vibrant photographic-style view of Cappadocia at dawn with hot-air balloons over fairy chimneys, soft golden light, crisp atmosphere (generated, not from an uploaded photo).
+BOTTOM PANEL: the exact same viewpoint rebuilt as layered 3D paper-craft cutouts with textured edges, real paper shadows, balloons and rock spires as stacked paper layers.
+Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poetic caption. No logos, no real people portraits, no brand marks.
+```
+
+- 原作者: [@Sairah_0](https://x.com/Sairah_0)
+- 原帖: https://x.com/Sairah_0/status/2101555686060536233
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/split-photo-papercraft-cappadocia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

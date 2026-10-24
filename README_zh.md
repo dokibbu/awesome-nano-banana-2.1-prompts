@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精选 **43** 条 Nano Banana 2.1 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 提示词库，自动同步更新。
+精选 **46** 条 Nano Banana 2.1 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 提示词库，自动同步更新。
 
 👉 [在 cinel.ai 浏览全部并在线生成](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -21,9 +21,9 @@
 
 - [人像写真](#portrait) (12) · [全部](cases/zh/portrait.md)
 - [产品与电商](#product-photography) (2) · [全部](cases/zh/product-photography.md)
-- [海报与平面设计](#poster-design) (2) · [全部](cases/zh/poster-design.md)
+- [海报与平面设计](#poster-design) (3) · [全部](cases/zh/poster-design.md)
 - [信息图与 UI](#infographic-ui) (1) · [全部](cases/zh/infographic-ui.md)
-- [3D 角色与手办](#3d-figurines) (4) · [全部](cases/zh/3d-figurines.md)
+- [3D 角色与手办](#3d-figurines) (6) · [全部](cases/zh/3d-figurines.md)
 - [美食饮品](#food-drink) (1) · [全部](cases/zh/food-drink.md)
 - [插画与动漫](#illustration-anime) (6) · [全部](cases/zh/illustration-anime.md)
 - [创意场景](#scenes-creative) (15) · [全部](cases/zh/scenes-creative.md)
@@ -156,7 +156,7 @@ Museum-style product still life of a Renaissance-style jewel pendant: a small sw
 
 ## 海报与平面设计
 
-精选 2 条 · [查看本类全部 2 条](cases/zh/poster-design.md) · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+精选 3 条 · [查看本类全部 3 条](cases/zh/poster-design.md) · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 中世纪复古旅行海报
 
@@ -223,6 +223,23 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 - 原帖: https://x.com/Naiknelofar788/status/2109612639727009914
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
+### 照片/纸艺对切卡帕多西亚旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/split-photo-papercraft-cappadocia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/split-photo-papercraft-cappadocia-poster.webp" alt="照片/纸艺对切卡帕多西亚旅行海报" width="480"></a>
+
+> @Sairah_0 对切旅行海报方法（277 赞）。填入卡帕多西亚；1:1；纯文生图（无用户上传照片）。
+
+```text
+Square 1:1 vertical split-panel travel poster of Cappadocia, Türkiye.
+TOP PANEL: wide-angle highly detailed vibrant photographic-style view of Cappadocia at dawn with hot-air balloons over fairy chimneys, soft golden light, crisp atmosphere (generated, not from an uploaded photo).
+BOTTOM PANEL: the exact same viewpoint rebuilt as layered 3D paper-craft cutouts with textured edges, real paper shadows, balloons and rock spires as stacked paper layers.
+Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poetic caption. No logos, no real people portraits, no brand marks.
+```
+
+- 原作者: [@Sairah_0](https://x.com/Sairah_0)
+- 原帖: https://x.com/Sairah_0/status/2101555686060536233
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/split-photo-papercraft-cappadocia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
 <a id="infographic-ui"></a>
 
 ## 信息图与 UI
@@ -247,7 +264,7 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 
 ## 3D 角色与手办
 
-精选 4 条 · [查看本类全部 4 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+精选 6 条 · [查看本类全部 6 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 玩具泡泡字主题立体模型
 
@@ -304,6 +321,34 @@ Cute anthropomorphic croissant mascot, full body, front three-quarter view, real
 - 原作者: [@azed_ai](https://x.com/azed_ai)
 - 原帖: https://x.com/azed_ai/status/2108511815181434974
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 怪趣机械猫头鹰半透明翅膀潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/whimsy-mechanical-owl-translucent-wings?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/whimsy-mechanical-owl-translucent-wings.webp" alt="怪趣机械猫头鹰半透明翅膀潮玩" width="480"></a>
+
+> @RockGrokAI Designer-Toy Whimsy（8 赞，提示在 alt）。虚构机械猫头鹰；1:1。
+
+```text
+Square 1:1 Designer-Toy Whimsy style: an ORIGINAL unique designer toy resembling a mechanical owl with translucent iridescent wings, displayed on a sleek colorful pedestal. 3D whimsical aesthetic, colorful and fun, soft studio lighting, clean backdrop. Fictional OC only, no brands.
+```
+
+- 原作者: [@RockGrokAI](https://x.com/RockGrokAI)
+- 原帖: https://x.com/RockGrokAI/status/2101696887355302359
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/whimsy-mechanical-owl-translucent-wings?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 马卡龙小屋 chibi 奶油女巫潮玩场景
+
+<a href="https://cinel.ai/zh/prompts/p/macaron-house-chibi-cream-witch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/macaron-house-chibi-cream-witch.webp" alt="马卡龙小屋 chibi 奶油女巫潮玩场景" width="480"></a>
+
+> @gen_with_love 马卡龙 chibi 方法（4 赞）。去掉上传照片，改写虚构奶油女巫；1:1。
+
+```text
+Square 1:1 premium kawaii watercolor-style designer-toy illustration of an ORIGINAL fictional tiny chibi Cream Witch sitting inside a giant pastel strawberry-pink macaron. She has a tiny pointed hat, cream swirls hair, stubby limbs, holds up the upper macaron shell with both hands, soft whipped cream and confectionery pearls around her. Pastel macaron art, clean sweet composition, no logos, no real people, no attached photo reference — invent the OC fully.
+```
+
+- 原作者: [@gen_with_love](https://x.com/gen_with_love)
+- 原帖: https://x.com/gen_with_love/status/2108498459775156225
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/macaron-house-chibi-cream-witch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="food-drink"></a>
 

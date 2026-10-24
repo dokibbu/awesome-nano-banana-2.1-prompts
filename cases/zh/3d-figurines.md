@@ -1,6 +1,6 @@
 # 3D 角色与手办 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 4 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 6 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 玩具泡泡字主题立体模型
 
@@ -57,3 +57,31 @@ Cute anthropomorphic croissant mascot, full body, front three-quarter view, real
 - 原作者: [@azed_ai](https://x.com/azed_ai)
 - 原帖: https://x.com/azed_ai/status/2108511815181434974
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 怪趣机械猫头鹰半透明翅膀潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/whimsy-mechanical-owl-translucent-wings?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/whimsy-mechanical-owl-translucent-wings.webp" alt="怪趣机械猫头鹰半透明翅膀潮玩" width="480"></a>
+
+> @RockGrokAI Designer-Toy Whimsy（8 赞，提示在 alt）。虚构机械猫头鹰；1:1。
+
+```text
+Square 1:1 Designer-Toy Whimsy style: an ORIGINAL unique designer toy resembling a mechanical owl with translucent iridescent wings, displayed on a sleek colorful pedestal. 3D whimsical aesthetic, colorful and fun, soft studio lighting, clean backdrop. Fictional OC only, no brands.
+```
+
+- 原作者: [@RockGrokAI](https://x.com/RockGrokAI)
+- 原帖: https://x.com/RockGrokAI/status/2101696887355302359
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/whimsy-mechanical-owl-translucent-wings?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 马卡龙小屋 chibi 奶油女巫潮玩场景
+
+<a href="https://cinel.ai/zh/prompts/p/macaron-house-chibi-cream-witch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/macaron-house-chibi-cream-witch.webp" alt="马卡龙小屋 chibi 奶油女巫潮玩场景" width="480"></a>
+
+> @gen_with_love 马卡龙 chibi 方法（4 赞）。去掉上传照片，改写虚构奶油女巫；1:1。
+
+```text
+Square 1:1 premium kawaii watercolor-style designer-toy illustration of an ORIGINAL fictional tiny chibi Cream Witch sitting inside a giant pastel strawberry-pink macaron. She has a tiny pointed hat, cream swirls hair, stubby limbs, holds up the upper macaron shell with both hands, soft whipped cream and confectionery pearls around her. Pastel macaron art, clean sweet composition, no logos, no real people, no attached photo reference — invent the OC fully.
+```
+
+- 原作者: [@gen_with_love](https://x.com/gen_with_love)
+- 原帖: https://x.com/gen_with_love/status/2108498459775156225
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/macaron-house-chibi-cream-witch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

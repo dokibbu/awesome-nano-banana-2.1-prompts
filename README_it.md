@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Una raccolta selezionata di **43** prompt per Nano Banana 2.1. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e si sincronizzano automaticamente.
+Una raccolta selezionata di **46** prompt per Nano Banana 2.1. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e si sincronizzano automaticamente.
 
 👉 [Sfoglia tutto e genera online su cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -21,9 +21,9 @@ Una raccolta selezionata di **43** prompt per Nano Banana 2.1. Ognuno include un
 
 - [Ritratti e headshot](#portrait) (12) · [tutti](cases/portrait.md)
 - [Prodotti ed e-commerce](#product-photography) (2) · [tutti](cases/product-photography.md)
-- [Poster, loghi e grafica](#poster-design) (2) · [tutti](cases/poster-design.md)
+- [Poster, loghi e grafica](#poster-design) (3) · [tutti](cases/poster-design.md)
 - [Infografiche e UI](#infographic-ui) (1) · [tutti](cases/infographic-ui.md)
-- [Personaggi e figure 3D](#3d-figurines) (4) · [tutti](cases/3d-figurines.md)
+- [Personaggi e figure 3D](#3d-figurines) (6) · [tutti](cases/3d-figurines.md)
 - [Cibo e bevande](#food-drink) (1) · [tutti](cases/food-drink.md)
 - [Illustrazione e anime](#illustration-anime) (6) · [tutti](cases/illustration-anime.md)
 - [Scene creative](#scenes-creative) (15) · [tutti](cases/scenes-creative.md)
@@ -156,7 +156,7 @@ Museum-style product still life of a Renaissance-style jewel pendant: a small sw
 
 ## Poster, loghi e grafica
 
-2 in evidenza · [Vedi tutti i 2](cases/poster-design.md) · [Categoria su cinel](https://cinel.ai/it/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+3 in evidenza · [Vedi tutti i 3](cases/poster-design.md) · [Categoria su cinel](https://cinel.ai/it/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Mid-Century Vintage Travel Poster
 
@@ -223,6 +223,23 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 - Post originale: https://x.com/Naiknelofar788/status/2109612639727009914
 - [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/vintage-culture-magazine-collage-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
+### Split Photo–Papercraft Cappadocia Travel Poster
+
+<a href="https://cinel.ai/it/prompts/p/split-photo-papercraft-cappadocia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/split-photo-papercraft-cappadocia-poster.webp" alt="Split Photo–Papercraft Cappadocia Travel Poster" width="480"></a>
+
+> @Sairah_0 split-panel travel poster method (277 likes). Filled Cappadocia; square 1:1; text-to-image only (no user photo upload).
+
+```text
+Square 1:1 vertical split-panel travel poster of Cappadocia, Türkiye.
+TOP PANEL: wide-angle highly detailed vibrant photographic-style view of Cappadocia at dawn with hot-air balloons over fairy chimneys, soft golden light, crisp atmosphere (generated, not from an uploaded photo).
+BOTTOM PANEL: the exact same viewpoint rebuilt as layered 3D paper-craft cutouts with textured edges, real paper shadows, balloons and rock spires as stacked paper layers.
+Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poetic caption. No logos, no real people portraits, no brand marks.
+```
+
+- Autore: [@Sairah_0](https://x.com/Sairah_0)
+- Post originale: https://x.com/Sairah_0/status/2101555686060536233
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/split-photo-papercraft-cappadocia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
 <a id="infographic-ui"></a>
 
 ## Infografiche e UI
@@ -247,7 +264,7 @@ Format: Square 1:1 composition, high resolution, professional magazine art direc
 
 ## Personaggi e figure 3D
 
-4 in evidenza · [Vedi tutti i 4](cases/3d-figurines.md) · [Categoria su cinel](https://cinel.ai/it/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 in evidenza · [Vedi tutti i 6](cases/3d-figurines.md) · [Categoria su cinel](https://cinel.ai/it/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -304,6 +321,34 @@ Cute anthropomorphic croissant mascot, full body, front three-quarter view, real
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2108511815181434974
 - [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/food-mascot-high-top-sneakers-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Whimsy Mechanical Owl with Translucent Wings
+
+<a href="https://cinel.ai/it/prompts/p/whimsy-mechanical-owl-translucent-wings?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/whimsy-mechanical-owl-translucent-wings.webp" alt="Whimsy Mechanical Owl with Translucent Wings" width="480"></a>
+
+> @RockGrokAI Designer-Toy Whimsy (8 likes, prompt in alt). Fictional mechanical owl OC; square 1:1.
+
+```text
+Square 1:1 Designer-Toy Whimsy style: an ORIGINAL unique designer toy resembling a mechanical owl with translucent iridescent wings, displayed on a sleek colorful pedestal. 3D whimsical aesthetic, colorful and fun, soft studio lighting, clean backdrop. Fictional OC only, no brands.
+```
+
+- Autore: [@RockGrokAI](https://x.com/RockGrokAI)
+- Post originale: https://x.com/RockGrokAI/status/2101696887355302359
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/whimsy-mechanical-owl-translucent-wings?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Macaron-House Chibi Cream Witch Toy Scene
+
+<a href="https://cinel.ai/it/prompts/p/macaron-house-chibi-cream-witch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/macaron-house-chibi-cream-witch.webp" alt="Macaron-House Chibi Cream Witch Toy Scene" width="480"></a>
+
+> @gen_with_love macaron chibi collection method (4 likes). Rewrote without photo upload into fictional Cream Witch; square 1:1.
+
+```text
+Square 1:1 premium kawaii watercolor-style designer-toy illustration of an ORIGINAL fictional tiny chibi Cream Witch sitting inside a giant pastel strawberry-pink macaron. She has a tiny pointed hat, cream swirls hair, stubby limbs, holds up the upper macaron shell with both hands, soft whipped cream and confectionery pearls around her. Pastel macaron art, clean sweet composition, no logos, no real people, no attached photo reference — invent the OC fully.
+```
+
+- Autore: [@gen_with_love](https://x.com/gen_with_love)
+- Post originale: https://x.com/gen_with_love/status/2108498459775156225
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/macaron-house-chibi-cream-witch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="food-drink"></a>
 
