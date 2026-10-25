@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-A curated list of **46** Nano Banana 2.1 prompts. Each one has an example image, the full prompt, and credit to the original author with a link to the original post. Data comes from the [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) prompt library and syncs automatically.
+A curated list of **49** Nano Banana 2.1 prompts. Each one has an example image, the full prompt, and credit to the original author with a link to the original post. Data comes from the [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) prompt library and syncs automatically.
 
 👉 [Browse all and generate online at cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -23,9 +23,9 @@ A curated list of **46** Nano Banana 2.1 prompts. Each one has an example image,
 - [Product & E-commerce](#product-photography) (2) · [all](cases/product-photography.md)
 - [Posters, Logos & Graphic Design](#poster-design) (3) · [all](cases/poster-design.md)
 - [Infographics & UI](#infographic-ui) (1) · [all](cases/infographic-ui.md)
-- [3D Characters & Figurines](#3d-figurines) (6) · [all](cases/3d-figurines.md)
+- [3D Characters & Figurines](#3d-figurines) (7) · [all](cases/3d-figurines.md)
 - [Food & Drink](#food-drink) (1) · [all](cases/food-drink.md)
-- [Illustration & Anime](#illustration-anime) (6) · [all](cases/illustration-anime.md)
+- [Illustration & Anime](#illustration-anime) (8) · [all](cases/illustration-anime.md)
 - [Creative Scenes](#scenes-creative) (15) · [all](cases/scenes-creative.md)
 
 <a id="portrait"></a>
@@ -264,7 +264,7 @@ Featured 1 · [See all 1](cases/infographic-ui.md) · [Category on cinel](https:
 
 ## 3D Characters & Figurines
 
-Featured 6 · [See all 6](cases/3d-figurines.md) · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Featured 6 · [See all 7](cases/3d-figurines.md) · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -374,7 +374,7 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 ## Illustration & Anime
 
-Featured 6 · [See all 6](cases/illustration-anime.md) · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Featured 6 · [See all 8](cases/illustration-anime.md) · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Nine-Tailed Fox Goddess in a Storm
 

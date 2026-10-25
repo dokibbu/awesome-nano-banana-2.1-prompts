@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Подборка из **46** промптов для Nano Banana 2.1. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) и синхронизируются автоматически.
+Подборка из **49** промптов для Nano Banana 2.1. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) и синхронизируются автоматически.
 
 👉 [Смотреть все и генерировать онлайн на cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -23,9 +23,9 @@
 - [Товары и e-commerce](#product-photography) (2) · [все](cases/product-photography.md)
 - [Постеры, логотипы и графический дизайн](#poster-design) (3) · [все](cases/poster-design.md)
 - [Инфографика и UI](#infographic-ui) (1) · [все](cases/infographic-ui.md)
-- [3D-персонажи и фигурки](#3d-figurines) (6) · [все](cases/3d-figurines.md)
+- [3D-персонажи и фигурки](#3d-figurines) (7) · [все](cases/3d-figurines.md)
 - [Еда и напитки](#food-drink) (1) · [все](cases/food-drink.md)
-- [Иллюстрации и аниме](#illustration-anime) (6) · [все](cases/illustration-anime.md)
+- [Иллюстрации и аниме](#illustration-anime) (8) · [все](cases/illustration-anime.md)
 - [Креативные сцены](#scenes-creative) (15) · [все](cases/scenes-creative.md)
 
 <a id="portrait"></a>
@@ -264,7 +264,7 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 
 ## 3D-персонажи и фигурки
 
-Избранное: 6 · [Все 6](cases/3d-figurines.md) · [Категория на cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Избранное: 6 · [Все 7](cases/3d-figurines.md) · [Категория на cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -374,7 +374,7 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 ## Иллюстрации и аниме
 
-Избранное: 6 · [Все 6](cases/illustration-anime.md) · [Категория на cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Избранное: 6 · [Все 8](cases/illustration-anime.md) · [Категория на cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Nine-Tailed Fox Goddess in a Storm
 

@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Une sélection de **46** prompts pour Nano Banana 2.1. Chacun comprend une image d'exemple, le prompt complet et le crédit à l'auteur d'origine avec un lien vers la publication originale. Les données proviennent de la bibliothèque de prompts de [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) et se synchronisent automatiquement.
+Une sélection de **49** prompts pour Nano Banana 2.1. Chacun comprend une image d'exemple, le prompt complet et le crédit à l'auteur d'origine avec un lien vers la publication originale. Les données proviennent de la bibliothèque de prompts de [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) et se synchronisent automatiquement.
 
 👉 [Tout parcourir et générer en ligne sur cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -23,9 +23,9 @@ Une sélection de **46** prompts pour Nano Banana 2.1. Chacun comprend une image
 - [Produit et e-commerce](#product-photography) (2) · [tous](cases/product-photography.md)
 - [Affiches, logos et design graphique](#poster-design) (3) · [tous](cases/poster-design.md)
 - [Infographies et UI](#infographic-ui) (1) · [tous](cases/infographic-ui.md)
-- [Personnages et figurines 3D](#3d-figurines) (6) · [tous](cases/3d-figurines.md)
+- [Personnages et figurines 3D](#3d-figurines) (7) · [tous](cases/3d-figurines.md)
 - [Cuisine et boissons](#food-drink) (1) · [tous](cases/food-drink.md)
-- [Illustration et anime](#illustration-anime) (6) · [tous](cases/illustration-anime.md)
+- [Illustration et anime](#illustration-anime) (8) · [tous](cases/illustration-anime.md)
 - [Scènes créatives](#scenes-creative) (15) · [tous](cases/scenes-creative.md)
 
 <a id="portrait"></a>
@@ -264,7 +264,7 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 
 ## Personnages et figurines 3D
 
-6 à la une · [Voir les 6](cases/3d-figurines.md) · [Catégorie sur cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 à la une · [Voir les 7](cases/3d-figurines.md) · [Catégorie sur cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -374,7 +374,7 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 ## Illustration et anime
 
-6 à la une · [Voir les 6](cases/illustration-anime.md) · [Catégorie sur cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 à la une · [Voir les 8](cases/illustration-anime.md) · [Catégorie sur cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Nine-Tailed Fox Goddess in a Storm
 

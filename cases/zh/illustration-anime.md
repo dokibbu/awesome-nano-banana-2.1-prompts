@@ -1,6 +1,6 @@
 # 插画与动漫 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 6 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 8 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 风暴中的九尾狐神女
 
@@ -95,3 +95,31 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 - 原作者: [@churvikv](https://x.com/churvikv)
 - 原帖: https://x.com/churvikv/status/2110031241139360215
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 腮红欧根纱层叠裙墨线高定速写
+
+<a href="https://cinel.ai/zh/prompts/p/ink-couture-blush-organza-cascade?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/ink-couture-blush-organza-cascade.webp" alt="腮红欧根纱层叠裙墨线高定速写" width="480"></a>
+
+> @azed_ai 编辑墨线高定速写（23 赞）。填入服装/配色/姿势/头饰/配饰；1:1。 同源模板变体（合成唯一 id）。
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing a blush organza cascade gown with layered translucent petals in soft blush pink, rose, black ink outlines, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, soft twirl pose with fabric petals floating outward, romantic loose waves with a tiny floral ink pin, delicate ribbon choker and translucent gloves, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- 原作者: [@azed_ai](https://x.com/azed_ai)
+- 原帖: https://x.com/azed_ai/status/2114310517619921351
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ink-couture-blush-organza-cascade?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 天蓝格纹纸艺时装大片
+
+<a href="https://cinel.ai/zh/prompts/p/papercut-fashion-gingham-sky-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/papercut-fashion-gingham-sky-editorial.webp" alt="天蓝格纹纸艺时装大片" width="480"></a>
+
+> @Tech_Apex0 3D 纸艺时装编辑插画（约 101 赞）。变化服装、色块与图案；1:1。 同源模板变体（合成唯一 id）。
+
+```text
+Create a high-end editorial fashion illustration of a stylish fictional adult woman wearing a sky-blue shirt dress with a cinched waist sash. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations of sky blue, soft white, pastel pink, and light yellow, paired with contrasting patterns: classic gingham check on the skirt portion and solid sky panels on the bodice. Add fashionable accessories including round sunglasses, tiny bow earrings, a woven-look paper tote, and loafers. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- 原作者: [@Tech_Apex0](https://x.com/Tech_Apex0)
+- 原帖: https://x.com/Tech_Apex0/status/2109687049666347113
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/papercut-fashion-gingham-sky-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

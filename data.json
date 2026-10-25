@@ -1,14 +1,14 @@
 {
   "model": "nano-banana-2.1",
-  "count": 46,
+  "count": 49,
   "categories": {
     "portrait": 12,
     "product-photography": 2,
     "poster-design": 3,
     "infographic-ui": 1,
-    "3d-figurines": 6,
+    "3d-figurines": 7,
     "food-drink": 1,
-    "illustration-anime": 6,
+    "illustration-anime": 8,
     "scenes-creative": 15
   },
   "slugs": [
@@ -57,6 +57,9 @@
     "hollow-stage-pumpkin-head-solo",
     "whimsy-mechanical-owl-translucent-wings",
     "macaron-house-chibi-cream-witch",
-    "split-photo-papercraft-cappadocia-poster"
+    "split-photo-papercraft-cappadocia-poster",
+    "ink-couture-blush-organza-cascade",
+    "papercut-fashion-gingham-sky-editorial",
+    "edu-diorama-how-recycling-works"
   ]
 }

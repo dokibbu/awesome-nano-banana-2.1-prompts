@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-엄선한 **46**개의 Nano Banana 2.1 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
+엄선한 **49**개의 Nano Banana 2.1 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
 
 👉 [cinel.ai에서 전체 보기 및 온라인 생성](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -23,9 +23,9 @@
 - [제품·이커머스](#product-photography) (2) · [전체](cases/product-photography.md)
 - [포스터·로고·그래픽 디자인](#poster-design) (3) · [전체](cases/poster-design.md)
 - [인포그래픽·UI](#infographic-ui) (1) · [전체](cases/infographic-ui.md)
-- [3D 캐릭터·피규어](#3d-figurines) (6) · [전체](cases/3d-figurines.md)
+- [3D 캐릭터·피규어](#3d-figurines) (7) · [전체](cases/3d-figurines.md)
 - [음식·음료](#food-drink) (1) · [전체](cases/food-drink.md)
-- [일러스트·애니메](#illustration-anime) (6) · [전체](cases/illustration-anime.md)
+- [일러스트·애니메](#illustration-anime) (8) · [전체](cases/illustration-anime.md)
 - [크리에이티브 장면](#scenes-creative) (15) · [전체](cases/scenes-creative.md)
 
 <a id="portrait"></a>
@@ -264,7 +264,7 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 
 ## 3D 캐릭터·피규어
 
-추천 6개 · [전체 6개 보기](cases/3d-figurines.md) · [cinel 카테고리](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+추천 6개 · [전체 7개 보기](cases/3d-figurines.md) · [cinel 카테고리](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -374,7 +374,7 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 ## 일러스트·애니메
 
-추천 6개 · [전체 6개 보기](cases/illustration-anime.md) · [cinel 카테고리](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+추천 6개 · [전체 8개 보기](cases/illustration-anime.md) · [cinel 카테고리](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Nine-Tailed Fox Goddess in a Storm
 

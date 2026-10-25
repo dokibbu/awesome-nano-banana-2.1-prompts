@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Özenle seçilmiş **46** Nano Banana 2.1 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
+Özenle seçilmiş **49** Nano Banana 2.1 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
 
 👉 [Tümüne cinel.ai'de göz at ve çevrimiçi üret](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -23,9 +23,9 @@
 - [Ürün ve e-ticaret](#product-photography) (2) · [tümü](cases/product-photography.md)
 - [Afiş, logo ve grafik tasarım](#poster-design) (3) · [tümü](cases/poster-design.md)
 - [İnfografik ve UI](#infographic-ui) (1) · [tümü](cases/infographic-ui.md)
-- [3D karakter ve figürler](#3d-figurines) (6) · [tümü](cases/3d-figurines.md)
+- [3D karakter ve figürler](#3d-figurines) (7) · [tümü](cases/3d-figurines.md)
 - [Yemek ve içecek](#food-drink) (1) · [tümü](cases/food-drink.md)
-- [İllüstrasyon ve anime](#illustration-anime) (6) · [tümü](cases/illustration-anime.md)
+- [İllüstrasyon ve anime](#illustration-anime) (8) · [tümü](cases/illustration-anime.md)
 - [Yaratıcı sahneler](#scenes-creative) (15) · [tümü](cases/scenes-creative.md)
 
 <a id="portrait"></a>
@@ -264,7 +264,7 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 
 ## 3D karakter ve figürler
 
-Öne çıkan 6 · [6 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Öne çıkan 6 · [7 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -374,7 +374,7 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 ## İllüstrasyon ve anime
 
-Öne çıkan 6 · [6 öğenin tümü](cases/illustration-anime.md) · [cinel'de kategori](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Öne çıkan 6 · [8 öğenin tümü](cases/illustration-anime.md) · [cinel'de kategori](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Nine-Tailed Fox Goddess in a Storm
 

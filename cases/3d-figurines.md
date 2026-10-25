@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · Nano Banana 2.1
 
-[← README](../README.md) · 6 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 7 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -85,3 +85,30 @@ Square 1:1 premium kawaii watercolor-style designer-toy illustration of an ORIGI
 - Author: [@gen_with_love](https://x.com/gen_with_love)
 - Original post: https://x.com/gen_with_love/status/2108498459775156225
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/macaron-house-chibi-cream-witch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### How Recycling Works
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-recycling-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../images/edu-diorama-how-recycling-works.webp" alt="How Recycling Works" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Recycling Works; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how recycling works, from sorting bins and collection through processing plants to new everyday products.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid fresh leaf green background.
+At the top-center, display How Recycling Works in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-recycling-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

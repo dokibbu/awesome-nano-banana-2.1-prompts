@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精选 **46** 条 Nano Banana 2.1 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 提示词库，自动同步更新。
+精选 **49** 条 Nano Banana 2.1 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 提示词库，自动同步更新。
 
 👉 [在 cinel.ai 浏览全部并在线生成](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -23,9 +23,9 @@
 - [产品与电商](#product-photography) (2) · [全部](cases/zh/product-photography.md)
 - [海报与平面设计](#poster-design) (3) · [全部](cases/zh/poster-design.md)
 - [信息图与 UI](#infographic-ui) (1) · [全部](cases/zh/infographic-ui.md)
-- [3D 角色与手办](#3d-figurines) (6) · [全部](cases/zh/3d-figurines.md)
+- [3D 角色与手办](#3d-figurines) (7) · [全部](cases/zh/3d-figurines.md)
 - [美食饮品](#food-drink) (1) · [全部](cases/zh/food-drink.md)
-- [插画与动漫](#illustration-anime) (6) · [全部](cases/zh/illustration-anime.md)
+- [插画与动漫](#illustration-anime) (8) · [全部](cases/zh/illustration-anime.md)
 - [创意场景](#scenes-creative) (15) · [全部](cases/zh/scenes-creative.md)
 
 <a id="portrait"></a>
@@ -264,7 +264,7 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 
 ## 3D 角色与手办
 
-精选 6 条 · [查看本类全部 6 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+精选 6 条 · [查看本类全部 7 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 玩具泡泡字主题立体模型
 
@@ -374,7 +374,7 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 ## 插画与动漫
 
-精选 6 条 · [查看本类全部 6 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+精选 6 条 · [查看本类全部 8 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 风暴中的九尾狐神女
 

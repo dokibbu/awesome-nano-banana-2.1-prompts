@@ -1,6 +1,6 @@
 # 3D 角色与手办 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 6 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 7 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 玩具泡泡字主题立体模型
 
@@ -85,3 +85,30 @@ Square 1:1 premium kawaii watercolor-style designer-toy illustration of an ORIGI
 - 原作者: [@gen_with_love](https://x.com/gen_with_love)
 - 原帖: https://x.com/gen_with_love/status/2108498459775156225
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/macaron-house-chibi-cream-witch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 回收是怎么运作的
+
+<a href="https://cinel.ai/zh/prompts/p/edu-diorama-how-recycling-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/edu-diorama-how-recycling-works.webp" alt="回收是怎么运作的" width="480"></a>
+
+> @aleenaamiir 等距教育3D立体场景（约920赞）。同源模板 isometric-educational-3d-diorama 填空：回收是怎么运作的；1:1。合成唯一 id。
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how recycling works, from sorting bins and collection through processing plants to new everyday products.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid fresh leaf green background.
+At the top-center, display How Recycling Works in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
+- 原帖: https://x.com/aleenaamiir/status/2013493349156823287
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/edu-diorama-how-recycling-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
