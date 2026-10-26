@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Una raccolta selezionata di **49** prompt per Nano Banana 2.1. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e si sincronizzano automaticamente.
+Una raccolta selezionata di **56** prompt per Nano Banana 2.1. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e si sincronizzano automaticamente.
 
 👉 [Sfoglia tutto e genera online su cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -22,11 +22,11 @@ Una raccolta selezionata di **49** prompt per Nano Banana 2.1. Ognuno include un
 - [Ritratti e headshot](#portrait) (12) · [tutti](cases/portrait.md)
 - [Prodotti ed e-commerce](#product-photography) (2) · [tutti](cases/product-photography.md)
 - [Poster, loghi e grafica](#poster-design) (3) · [tutti](cases/poster-design.md)
-- [Infografiche e UI](#infographic-ui) (1) · [tutti](cases/infographic-ui.md)
+- [Infografiche e UI](#infographic-ui) (5) · [tutti](cases/infographic-ui.md)
 - [Personaggi e figure 3D](#3d-figurines) (7) · [tutti](cases/3d-figurines.md)
 - [Cibo e bevande](#food-drink) (1) · [tutti](cases/food-drink.md)
-- [Illustrazione e anime](#illustration-anime) (8) · [tutti](cases/illustration-anime.md)
-- [Scene creative](#scenes-creative) (15) · [tutti](cases/scenes-creative.md)
+- [Illustrazione e anime](#illustration-anime) (9) · [tutti](cases/illustration-anime.md)
+- [Scene creative](#scenes-creative) (17) · [tutti](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -244,7 +244,7 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 
 ## Infografiche e UI
 
-1 in evidenza · [Vedi tutti i 1](cases/infographic-ui.md) · [Categoria su cinel](https://cinel.ai/it/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+5 in evidenza · [Vedi tutti i 5](cases/infographic-ui.md) · [Categoria su cinel](https://cinel.ai/it/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Typographic Object Logo Mark Grid
 
@@ -259,6 +259,62 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 - Autore: [@Gdgtify](https://x.com/Gdgtify)
 - Post originale: https://x.com/Gdgtify/status/2110060246215635036
 - [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### AAA Character Select — Strategist Lyra
+
+<a href="https://cinel.ai/it/prompts/p/aaa-character-select-strategist-lyra?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/aaa-character-select-strategist-lyra.webp" alt="AAA Character Select — Strategist Lyra" width="480"></a>
+
+> TEXT-ONLY rewrite of a face_reference / uploaded_image / identity_preservation character-select template. Invented fictional adult hero; no real-person photo upload.
+
+```text
+You are an AAA game UI artist, character designer, and cinematic key art director. Create a high-end video game character select screen for a FULLY FICTIONAL adult playable hero named Lyra Voss, class Strategist, special ability Tactical Overwatch, genre cyberpunk rpg. TEXT-ONLY generation — do NOT use any uploaded photo, face_reference, or identity preservation of a real person. Invent an original face and look. Outfit: sleek tactical coat, data tablet, calm posture. Environment: neon megacity night with holographic billboards. Full-body hero model centered; readable UI panels showing player name, class, ability, and stats (focus, speed, charisma, luck, vision) with invented numbers; buttons labeled Select, Customize, Back; small simplified character portrait thumbnails on the side. AAA game key art, Unreal Engine realism, crisp character model, cinematic rim light, polished UI, strong silhouette. Widescreen 16:9 cinematic. No mobile-app look, no lockscreen, no messy UI, no unreadable stats, no distorted hands, no copyrighted game logos, no brand watermarks, no real celebrity likeness.
+```
+
+- Autore: [@Gdgtify](https://x.com/Gdgtify)
+- Post originale: https://x.com/Gdgtify/status/2062196107627896884
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/aaa-character-select-strategist-lyra?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### AAA Character Select — Rogue Kael
+
+<a href="https://cinel.ai/it/prompts/p/aaa-character-select-rogue-kael?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/aaa-character-select-rogue-kael.webp" alt="AAA Character Select — Rogue Kael" width="480"></a>
+
+> TEXT-ONLY rewrite of a face_reference / uploaded_image / identity_preservation character-select template. Invented fictional adult hero; no real-person photo upload.
+
+```text
+You are an AAA game UI artist, character designer, and cinematic key art director. Create a high-end video game character select screen for a FULLY FICTIONAL adult playable hero named Kael Nyx, class Rogue, special ability Shadow Step, genre fantasy rpg. TEXT-ONLY generation — do NOT use any uploaded photo, face_reference, or identity preservation of a real person. Invent an original face and look. Outfit: layered streetwear cloak, hidden tools, agile stance. Environment: moonlit rooftop alleys of a fantasy capital. Full-body hero model centered; readable UI panels showing player name, class, ability, and stats (focus, speed, charisma, luck, vision) with invented numbers; buttons labeled Select, Customize, Back; small simplified character portrait thumbnails on the side. AAA game key art, Unreal Engine realism, crisp character model, cinematic rim light, polished UI, strong silhouette. Widescreen 16:9 cinematic. No mobile-app look, no lockscreen, no messy UI, no unreadable stats, no distorted hands, no copyrighted game logos, no brand watermarks, no real celebrity likeness.
+```
+
+- Autore: [@Gdgtify](https://x.com/Gdgtify)
+- Post originale: https://x.com/Gdgtify/status/2062196107627896884
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/aaa-character-select-rogue-kael?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### AAA Character Select — Technomancer Nyx
+
+<a href="https://cinel.ai/it/prompts/p/aaa-character-select-technomancer-nyx?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/aaa-character-select-technomancer-nyx.webp" alt="AAA Character Select — Technomancer Nyx" width="480"></a>
+
+> TEXT-ONLY rewrite of a face_reference / uploaded_image / identity_preservation character-select template. Invented fictional adult hero; no real-person photo upload.
+
+```text
+You are an AAA game UI artist, character designer, and cinematic key art director. Create a high-end video game character select screen for a FULLY FICTIONAL adult playable hero named Nyx Orion, class Technomancer, special ability Circuit Storm, genre cyberpunk rpg. TEXT-ONLY generation — do NOT use any uploaded photo, face_reference, or identity preservation of a real person. Invent an original face and look. Outfit: glowing devices, cable harness, clean sci-fi silhouette. Environment: server-cathedral with floating data shards. Full-body hero model centered; readable UI panels showing player name, class, ability, and stats (focus, speed, charisma, luck, vision) with invented numbers; buttons labeled Select, Customize, Back; small simplified character portrait thumbnails on the side. AAA game key art, Unreal Engine realism, crisp character model, cinematic rim light, polished UI, strong silhouette. Widescreen 16:9 cinematic. No mobile-app look, no lockscreen, no messy UI, no unreadable stats, no distorted hands, no copyrighted game logos, no brand watermarks, no real celebrity likeness.
+```
+
+- Autore: [@Gdgtify](https://x.com/Gdgtify)
+- Post originale: https://x.com/Gdgtify/status/2062196107627896884
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/aaa-character-select-technomancer-nyx?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### AAA Character Select — Brawler Rok
+
+<a href="https://cinel.ai/it/prompts/p/aaa-character-select-brawler-rok?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/aaa-character-select-brawler-rok.webp" alt="AAA Character Select — Brawler Rok" width="480"></a>
+
+> TEXT-ONLY rewrite of a face_reference / uploaded_image / identity_preservation character-select template. Invented fictional adult hero; no real-person photo upload.
+
+```text
+You are an AAA game UI artist, character designer, and cinematic key art director. Create a high-end video game character select screen for a FULLY FICTIONAL adult playable hero named Rok Ashen, class Brawler, special ability Ironquake, genre fighting game. TEXT-ONLY generation — do NOT use any uploaded photo, face_reference, or identity preservation of a real person. Invent an original face and look. Outfit: athletic gear, hand wraps, grounded pose. Environment: underground arena with dramatic spotlights. Full-body hero model centered; readable UI panels showing player name, class, ability, and stats (focus, speed, charisma, luck, vision) with invented numbers; buttons labeled Select, Customize, Back; small simplified character portrait thumbnails on the side. AAA game key art, Unreal Engine realism, crisp character model, cinematic rim light, polished UI, strong silhouette. Widescreen 16:9 cinematic. No mobile-app look, no lockscreen, no messy UI, no unreadable stats, no distorted hands, no copyrighted game logos, no brand watermarks, no real celebrity likeness.
+```
+
+- Autore: [@Gdgtify](https://x.com/Gdgtify)
+- Post originale: https://x.com/Gdgtify/status/2062196107627896884
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/aaa-character-select-brawler-rok?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="3d-figurines"></a>
 
@@ -374,7 +430,7 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 ## Illustrazione e anime
 
-6 in evidenza · [Vedi tutti i 8](cases/illustration-anime.md) · [Categoria su cinel](https://cinel.ai/it/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 in evidenza · [Vedi tutti i 9](cases/illustration-anime.md) · [Categoria su cinel](https://cinel.ai/it/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Nine-Tailed Fox Goddess in a Storm
 
@@ -474,7 +530,7 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 
 ## Scene creative
 
-6 in evidenza · [Vedi tutti i 15](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/it/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 in evidenza · [Vedi tutti i 17](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/it/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 

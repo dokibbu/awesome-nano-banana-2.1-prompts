@@ -1,6 +1,6 @@
 # 插画与动漫 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 8 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 9 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 风暴中的九尾狐神女
 
@@ -123,3 +123,17 @@ Create a high-end editorial fashion illustration of a stylish fictional adult wo
 - 原作者: [@Tech_Apex0](https://x.com/Tech_Apex0)
 - 原帖: https://x.com/Tech_Apex0/status/2109687049666347113
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/papercut-fashion-gingham-sky-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 姜饼王国像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-gingerbread-kingdom?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/pixel-game-gingerbread-kingdom.webp" alt="姜饼王国像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a fairy-tale gingerbread kingdom quest”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a fairy-tale gingerbread kingdom quest if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: candy towers, icing rivers, cookie knights, pastel pink-and-mint fairy-tale pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-gingerbread-kingdom?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

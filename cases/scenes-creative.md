@@ -1,6 +1,6 @@
 # Creative Scenes · Nano Banana 2.1
 
-[← README](../README.md) · 15 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 17 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 
@@ -225,3 +225,31 @@ Cinematic concert still, square 1:1: a headless horseman figure mid-solo on a cr
 - Author: [@RealLeeForest](https://x.com/RealLeeForest)
 - Original post: https://x.com/RealLeeForest/status/2109057357926085014
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/hollow-stage-pumpkin-head-solo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Isometric Forest Dungeon Game Level
+
+<a href="https://cinel.ai/prompts/p/isometric-game-level-forest-dungeon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../images/isometric-game-level-forest-dungeon.webp" alt="Isometric Forest Dungeon Game Level" width="480"></a>
+
+> TEXT-ONLY rewrite of an upload/reference-based isometric game-level prompt; scene described in text instead of REFERENCE_IMG.
+
+```text
+Isometric game map, clean vector edges with light pixel-art accents, 8k crisp, isometric 3D projection. Build a playable-looking game level overview of an ancient forest dungeon with mossy stone corridors, glowing mushrooms, treasure chests, and tiny adventurer icons. Turn architecture and props into readable game tiles; preserve clear spatial layout; optionally show small stylized character icons. TEXT-ONLY — no uploaded reference photo. Square 1:1. No gore, no explicit content, no brand logos, no copyrighted game IP, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/1995486038043893825
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-game-level-forest-dungeon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Isometric Cyber Alley Game Level
+
+<a href="https://cinel.ai/prompts/p/isometric-game-level-cyber-alley?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../images/isometric-game-level-cyber-alley.webp" alt="Isometric Cyber Alley Game Level" width="480"></a>
+
+> TEXT-ONLY rewrite of an upload/reference-based isometric game-level prompt; scene described in text instead of REFERENCE_IMG.
+
+```text
+Isometric game map, clean vector edges with light pixel-art accents, 8k crisp, isometric 3D projection. Build a playable-looking game level overview of a neon cyber alley with rooftop gardens, hover bikes, noodle stalls, and tiny runner icons. Turn architecture and props into readable game tiles; preserve clear spatial layout; optionally show small stylized character icons. TEXT-ONLY — no uploaded reference photo. Square 1:1. No gore, no explicit content, no brand logos, no copyrighted game IP, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/1995486038043893825
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-game-level-cyber-alley?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

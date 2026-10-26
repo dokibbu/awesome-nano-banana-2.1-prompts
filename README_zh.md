@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精选 **49** 条 Nano Banana 2.1 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 提示词库，自动同步更新。
+精选 **56** 条 Nano Banana 2.1 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 提示词库，自动同步更新。
 
 👉 [在 cinel.ai 浏览全部并在线生成](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -22,11 +22,11 @@
 - [人像写真](#portrait) (12) · [全部](cases/zh/portrait.md)
 - [产品与电商](#product-photography) (2) · [全部](cases/zh/product-photography.md)
 - [海报与平面设计](#poster-design) (3) · [全部](cases/zh/poster-design.md)
-- [信息图与 UI](#infographic-ui) (1) · [全部](cases/zh/infographic-ui.md)
+- [信息图与 UI](#infographic-ui) (5) · [全部](cases/zh/infographic-ui.md)
 - [3D 角色与手办](#3d-figurines) (7) · [全部](cases/zh/3d-figurines.md)
 - [美食饮品](#food-drink) (1) · [全部](cases/zh/food-drink.md)
-- [插画与动漫](#illustration-anime) (8) · [全部](cases/zh/illustration-anime.md)
-- [创意场景](#scenes-creative) (15) · [全部](cases/zh/scenes-creative.md)
+- [插画与动漫](#illustration-anime) (9) · [全部](cases/zh/illustration-anime.md)
+- [创意场景](#scenes-creative) (17) · [全部](cases/zh/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -244,7 +244,7 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 
 ## 信息图与 UI
 
-精选 1 条 · [查看本类全部 1 条](cases/zh/infographic-ui.md) · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+精选 5 条 · [查看本类全部 5 条](cases/zh/infographic-ui.md) · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 文字与物件融合的标志网格
 
@@ -259,6 +259,62 @@ Cream divider strip with elegant small serif text "CAPPADOCIA" and a short poeti
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2110060246215635036
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/typographic-object-logo-mark-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 3A角色选择界面—战略家莱拉
+
+<a href="https://cinel.ai/zh/prompts/p/aaa-character-select-strategist-lyra?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/aaa-character-select-strategist-lyra.webp" alt="3A角色选择界面—战略家莱拉" width="480"></a>
+
+> 将依赖人脸参考/上传图/身份保持的角色选择模板改写为纯文本。虚构成年英雄；无需真人照片上传。
+
+```text
+You are an AAA game UI artist, character designer, and cinematic key art director. Create a high-end video game character select screen for a FULLY FICTIONAL adult playable hero named Lyra Voss, class Strategist, special ability Tactical Overwatch, genre cyberpunk rpg. TEXT-ONLY generation — do NOT use any uploaded photo, face_reference, or identity preservation of a real person. Invent an original face and look. Outfit: sleek tactical coat, data tablet, calm posture. Environment: neon megacity night with holographic billboards. Full-body hero model centered; readable UI panels showing player name, class, ability, and stats (focus, speed, charisma, luck, vision) with invented numbers; buttons labeled Select, Customize, Back; small simplified character portrait thumbnails on the side. AAA game key art, Unreal Engine realism, crisp character model, cinematic rim light, polished UI, strong silhouette. Widescreen 16:9 cinematic. No mobile-app look, no lockscreen, no messy UI, no unreadable stats, no distorted hands, no copyrighted game logos, no brand watermarks, no real celebrity likeness.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2062196107627896884
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/aaa-character-select-strategist-lyra?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 3A角色选择界面—游荡者凯尔
+
+<a href="https://cinel.ai/zh/prompts/p/aaa-character-select-rogue-kael?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/aaa-character-select-rogue-kael.webp" alt="3A角色选择界面—游荡者凯尔" width="480"></a>
+
+> 将依赖人脸参考/上传图/身份保持的角色选择模板改写为纯文本。虚构成年英雄；无需真人照片上传。
+
+```text
+You are an AAA game UI artist, character designer, and cinematic key art director. Create a high-end video game character select screen for a FULLY FICTIONAL adult playable hero named Kael Nyx, class Rogue, special ability Shadow Step, genre fantasy rpg. TEXT-ONLY generation — do NOT use any uploaded photo, face_reference, or identity preservation of a real person. Invent an original face and look. Outfit: layered streetwear cloak, hidden tools, agile stance. Environment: moonlit rooftop alleys of a fantasy capital. Full-body hero model centered; readable UI panels showing player name, class, ability, and stats (focus, speed, charisma, luck, vision) with invented numbers; buttons labeled Select, Customize, Back; small simplified character portrait thumbnails on the side. AAA game key art, Unreal Engine realism, crisp character model, cinematic rim light, polished UI, strong silhouette. Widescreen 16:9 cinematic. No mobile-app look, no lockscreen, no messy UI, no unreadable stats, no distorted hands, no copyrighted game logos, no brand watermarks, no real celebrity likeness.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2062196107627896884
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/aaa-character-select-rogue-kael?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 3A角色选择界面—技法学家尼克斯
+
+<a href="https://cinel.ai/zh/prompts/p/aaa-character-select-technomancer-nyx?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/aaa-character-select-technomancer-nyx.webp" alt="3A角色选择界面—技法学家尼克斯" width="480"></a>
+
+> 将依赖人脸参考/上传图/身份保持的角色选择模板改写为纯文本。虚构成年英雄；无需真人照片上传。
+
+```text
+You are an AAA game UI artist, character designer, and cinematic key art director. Create a high-end video game character select screen for a FULLY FICTIONAL adult playable hero named Nyx Orion, class Technomancer, special ability Circuit Storm, genre cyberpunk rpg. TEXT-ONLY generation — do NOT use any uploaded photo, face_reference, or identity preservation of a real person. Invent an original face and look. Outfit: glowing devices, cable harness, clean sci-fi silhouette. Environment: server-cathedral with floating data shards. Full-body hero model centered; readable UI panels showing player name, class, ability, and stats (focus, speed, charisma, luck, vision) with invented numbers; buttons labeled Select, Customize, Back; small simplified character portrait thumbnails on the side. AAA game key art, Unreal Engine realism, crisp character model, cinematic rim light, polished UI, strong silhouette. Widescreen 16:9 cinematic. No mobile-app look, no lockscreen, no messy UI, no unreadable stats, no distorted hands, no copyrighted game logos, no brand watermarks, no real celebrity likeness.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2062196107627896884
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/aaa-character-select-technomancer-nyx?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 3A角色选择界面—格斗家洛克
+
+<a href="https://cinel.ai/zh/prompts/p/aaa-character-select-brawler-rok?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/aaa-character-select-brawler-rok.webp" alt="3A角色选择界面—格斗家洛克" width="480"></a>
+
+> 将依赖人脸参考/上传图/身份保持的角色选择模板改写为纯文本。虚构成年英雄；无需真人照片上传。
+
+```text
+You are an AAA game UI artist, character designer, and cinematic key art director. Create a high-end video game character select screen for a FULLY FICTIONAL adult playable hero named Rok Ashen, class Brawler, special ability Ironquake, genre fighting game. TEXT-ONLY generation — do NOT use any uploaded photo, face_reference, or identity preservation of a real person. Invent an original face and look. Outfit: athletic gear, hand wraps, grounded pose. Environment: underground arena with dramatic spotlights. Full-body hero model centered; readable UI panels showing player name, class, ability, and stats (focus, speed, charisma, luck, vision) with invented numbers; buttons labeled Select, Customize, Back; small simplified character portrait thumbnails on the side. AAA game key art, Unreal Engine realism, crisp character model, cinematic rim light, polished UI, strong silhouette. Widescreen 16:9 cinematic. No mobile-app look, no lockscreen, no messy UI, no unreadable stats, no distorted hands, no copyrighted game logos, no brand watermarks, no real celebrity likeness.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2062196107627896884
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/aaa-character-select-brawler-rok?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 <a id="3d-figurines"></a>
 
@@ -374,7 +430,7 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 ## 插画与动漫
 
-精选 6 条 · [查看本类全部 8 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+精选 6 条 · [查看本类全部 9 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 风暴中的九尾狐神女
 
@@ -474,7 +530,7 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 
 ## 创意场景
 
-精选 6 条 · [查看本类全部 15 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+精选 6 条 · [查看本类全部 17 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 剪影树与城市日落合成
 
