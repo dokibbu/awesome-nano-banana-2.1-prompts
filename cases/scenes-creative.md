@@ -1,6 +1,6 @@
 # Creative Scenes · Nano Banana 2.1
 
-[← README](../README.md) · 17 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 18 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 
@@ -253,3 +253,17 @@ Isometric game map, clean vector edges with light pixel-art accents, 8k crisp, i
 - Author: [@Gdgtify](https://x.com/Gdgtify)
 - Original post: https://x.com/Gdgtify/status/1995486038043893825
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-game-level-cyber-alley?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Dunes At First Light Lock Screen
+
+<a href="https://cinel.ai/prompts/p/phone-lock-dunes-first-light?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../images/phone-lock-dunes-first-light.webp" alt="Dunes At First Light Lock Screen" width="360"></a>
+
+> Dune ridges at first light — edges do the work. Empty lock wallpaper with soft warm sand tones.
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Dunes at first light: sand ridges as a study in edges, warm low sun grazing the crests, long soft shadows in the troughs. Empty desert, no people, no footprints, no text, no logos. Calm negative space in the sky. Photoreal, premium empty nature lock wallpaper.
+```
+
+- Author: [@CliffWade](https://x.com/CliffWade)
+- Original post: https://x.com/CliffWade/status/2106391321477071098
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/phone-lock-dunes-first-light?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

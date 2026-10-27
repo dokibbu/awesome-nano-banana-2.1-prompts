@@ -1,6 +1,6 @@
 {
   "model": "nano-banana-2.1",
-  "count": 56,
+  "count": 57,
   "categories": {
     "portrait": 12,
     "product-photography": 2,
@@ -9,7 +9,7 @@
     "3d-figurines": 7,
     "food-drink": 1,
     "illustration-anime": 9,
-    "scenes-creative": 17
+    "scenes-creative": 18
   },
   "slugs": [
     "silhouette-tree-city-sunset-composite",
@@ -67,6 +67,7 @@
     "aaa-character-select-technomancer-nyx",
     "aaa-character-select-brawler-rok",
     "isometric-game-level-forest-dungeon",
-    "isometric-game-level-cyber-alley"
+    "isometric-game-level-cyber-alley",
+    "phone-lock-dunes-first-light"
   ]
 }

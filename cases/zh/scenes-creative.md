@@ -1,6 +1,6 @@
 # 创意场景 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 17 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 18 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 剪影树与城市日落合成
 
@@ -253,3 +253,17 @@ Isometric game map, clean vector edges with light pixel-art accents, 8k crisp, i
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/1995486038043893825
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-game-level-cyber-alley?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 手机锁屏·晨光沙丘脊线
+
+<a href="https://cinel.ai/zh/prompts/p/phone-lock-dunes-first-light?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/phone-lock-dunes-first-light.webp" alt="手机锁屏·晨光沙丘脊线" width="360"></a>
+
+> 晨光沙丘脊线——边缘光影做主角。空景锁屏，暖沙色调。
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Dunes at first light: sand ridges as a study in edges, warm low sun grazing the crests, long soft shadows in the troughs. Empty desert, no people, no footprints, no text, no logos. Calm negative space in the sky. Photoreal, premium empty nature lock wallpaper.
+```
+
+- 原作者: [@CliffWade](https://x.com/CliffWade)
+- 原帖: https://x.com/CliffWade/status/2106391321477071098
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/phone-lock-dunes-first-light?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

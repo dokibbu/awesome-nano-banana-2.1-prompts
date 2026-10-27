@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-엄선한 **56**개의 Nano Banana 2.1 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
+엄선한 **57**개의 Nano Banana 2.1 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
 
 👉 [cinel.ai에서 전체 보기 및 온라인 생성](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -26,7 +26,7 @@
 - [3D 캐릭터·피규어](#3d-figurines) (7) · [전체](cases/3d-figurines.md)
 - [음식·음료](#food-drink) (1) · [전체](cases/food-drink.md)
 - [일러스트·애니메](#illustration-anime) (9) · [전체](cases/illustration-anime.md)
-- [크리에이티브 장면](#scenes-creative) (17) · [전체](cases/scenes-creative.md)
+- [크리에이티브 장면](#scenes-creative) (18) · [전체](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -530,7 +530,7 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 
 ## 크리에이티브 장면
 
-추천 6개 · [전체 17개 보기](cases/scenes-creative.md) · [cinel 카테고리](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+추천 6개 · [전체 18개 보기](cases/scenes-creative.md) · [cinel 카테고리](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 

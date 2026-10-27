@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精选 **56** 条 Nano Banana 2.1 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 提示词库，自动同步更新。
+精选 **57** 条 Nano Banana 2.1 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) 提示词库，自动同步更新。
 
 👉 [在 cinel.ai 浏览全部并在线生成](https://cinel.ai/zh/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -26,7 +26,7 @@
 - [3D 角色与手办](#3d-figurines) (7) · [全部](cases/zh/3d-figurines.md)
 - [美食饮品](#food-drink) (1) · [全部](cases/zh/food-drink.md)
 - [插画与动漫](#illustration-anime) (9) · [全部](cases/zh/illustration-anime.md)
-- [创意场景](#scenes-creative) (17) · [全部](cases/zh/scenes-creative.md)
+- [创意场景](#scenes-creative) (18) · [全部](cases/zh/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -530,7 +530,7 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 
 ## 创意场景
 
-精选 6 条 · [查看本类全部 17 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+精选 6 条 · [查看本类全部 18 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 剪影树与城市日落合成
 

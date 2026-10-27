@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Una raccolta selezionata di **56** prompt per Nano Banana 2.1. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e si sincronizzano automaticamente.
+Una raccolta selezionata di **57** prompt per Nano Banana 2.1. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e si sincronizzano automaticamente.
 
 👉 [Sfoglia tutto e genera online su cinel.ai](https://cinel.ai/it/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -26,7 +26,7 @@ Una raccolta selezionata di **56** prompt per Nano Banana 2.1. Ognuno include un
 - [Personaggi e figure 3D](#3d-figurines) (7) · [tutti](cases/3d-figurines.md)
 - [Cibo e bevande](#food-drink) (1) · [tutti](cases/food-drink.md)
 - [Illustrazione e anime](#illustration-anime) (9) · [tutti](cases/illustration-anime.md)
-- [Scene creative](#scenes-creative) (17) · [tutti](cases/scenes-creative.md)
+- [Scene creative](#scenes-creative) (18) · [tutti](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -530,7 +530,7 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 
 ## Scene creative
 
-6 in evidenza · [Vedi tutti i 17](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/it/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 in evidenza · [Vedi tutti i 18](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/it/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 
