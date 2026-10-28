@@ -1,6 +1,6 @@
 {
   "model": "nano-banana-2.1",
-  "count": 57,
+  "count": 58,
   "categories": {
     "portrait": 12,
     "product-photography": 2,
@@ -9,7 +9,7 @@
     "3d-figurines": 7,
     "food-drink": 1,
     "illustration-anime": 9,
-    "scenes-creative": 18
+    "scenes-creative": 19
   },
   "slugs": [
     "silhouette-tree-city-sunset-composite",
@@ -68,6 +68,7 @@
     "aaa-character-select-brawler-rok",
     "isometric-game-level-forest-dungeon",
     "isometric-game-level-cyber-alley",
-    "phone-lock-dunes-first-light"
+    "phone-lock-dunes-first-light",
+    "frozen-time-lattice-rabbit"
   ]
 }

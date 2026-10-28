@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Uma lista selecionada de **57** prompts para Nano Banana 2.1. Cada um traz uma imagem de exemplo, o prompt completo e o crédito ao autor original com link para a publicação original. Os dados vêm da biblioteca de prompts do [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e são sincronizados automaticamente.
+Uma lista selecionada de **58** prompts para Nano Banana 2.1. Cada um traz uma imagem de exemplo, o prompt completo e o crédito ao autor original com link para a publicação original. Os dados vêm da biblioteca de prompts do [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) e são sincronizados automaticamente.
 
 👉 [Ver tudo e gerar online no cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -26,7 +26,7 @@ Uma lista selecionada de **57** prompts para Nano Banana 2.1. Cada um traz uma i
 - [Personagens e figuras 3D](#3d-figurines) (7) · [todos](cases/3d-figurines.md)
 - [Comida e bebida](#food-drink) (1) · [todos](cases/food-drink.md)
 - [Ilustração e anime](#illustration-anime) (9) · [todos](cases/illustration-anime.md)
-- [Cenas criativas](#scenes-creative) (18) · [todos](cases/scenes-creative.md)
+- [Cenas criativas](#scenes-creative) (19) · [todos](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -530,7 +530,7 @@ A single key frame from a dark fantasy 2D anime film fused with gothic ink illus
 
 ## Cenas criativas
 
-6 em destaque · [Ver todos os 18](cases/scenes-creative.md) · [Categoria no cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 em destaque · [Ver todos os 19](cases/scenes-creative.md) · [Categoria no cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Isometric Forest Dungeon Game Level
 

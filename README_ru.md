@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Подборка из **57** промптов для Nano Banana 2.1. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) и синхронизируются автоматически.
+Подборка из **58** промптов для Nano Banana 2.1. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) и синхронизируются автоматически.
 
 👉 [Смотреть все и генерировать онлайн на cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -26,7 +26,7 @@
 - [3D-персонажи и фигурки](#3d-figurines) (7) · [все](cases/3d-figurines.md)
 - [Еда и напитки](#food-drink) (1) · [все](cases/food-drink.md)
 - [Иллюстрации и аниме](#illustration-anime) (9) · [все](cases/illustration-anime.md)
-- [Креативные сцены](#scenes-creative) (18) · [все](cases/scenes-creative.md)
+- [Креативные сцены](#scenes-creative) (19) · [все](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -530,7 +530,7 @@ A single key frame from a dark fantasy 2D anime film fused with gothic ink illus
 
 ## Креативные сцены
 
-Избранное: 6 · [Все 18](cases/scenes-creative.md) · [Категория на cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Избранное: 6 · [Все 19](cases/scenes-creative.md) · [Категория на cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Isometric Forest Dungeon Game Level
 

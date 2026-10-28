@@ -1,6 +1,6 @@
 # 创意场景 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 18 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 19 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 剪影树与城市日落合成
 
@@ -267,3 +267,17 @@ Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Dunes at first l
 - 原作者: [@CliffWade](https://x.com/CliffWade)
 - 原帖: https://x.com/CliffWade/status/2106391321477071098
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/phone-lock-dunes-first-light?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 冻结时间晶格·白兔
+
+<a href="https://cinel.ai/zh/prompts/p/frozen-time-lattice-rabbit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/frozen-time-lattice-rabbit.webp" alt="冻结时间晶格·白兔" width="480"></a>
+
+> 超现实 3D 场景；可换动物。
+
+```text
+3D render of a colossal white rabbit mid-hop across a meadow, air crystallized into a lattice of suspended pocket watches whose locked gears form permanent bridges and platforms of frozen time, strong material detail and cinematic lighting. Widescreen cinematic composition 16:9. No brands, logos, watermarks, or readable text.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115111288955158783
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/frozen-time-lattice-rabbit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

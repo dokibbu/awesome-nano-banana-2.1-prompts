@@ -1,6 +1,6 @@
 # Creative Scenes · Nano Banana 2.1
 
-[← README](../README.md) · 18 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 19 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 
@@ -267,3 +267,17 @@ Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Dunes at first l
 - Author: [@CliffWade](https://x.com/CliffWade)
 - Original post: https://x.com/CliffWade/status/2106391321477071098
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/phone-lock-dunes-first-light?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Frozen Time Lattice White Rabbit
+
+<a href="https://cinel.ai/prompts/p/frozen-time-lattice-rabbit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../images/frozen-time-lattice-rabbit.webp" alt="Frozen Time Lattice White Rabbit" width="480"></a>
+
+> Surreal 3D scene; swap animal.
+
+```text
+3D render of a colossal white rabbit mid-hop across a meadow, air crystallized into a lattice of suspended pocket watches whose locked gears form permanent bridges and platforms of frozen time, strong material detail and cinematic lighting. Widescreen cinematic composition 16:9. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115111288955158783
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/frozen-time-lattice-rabbit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

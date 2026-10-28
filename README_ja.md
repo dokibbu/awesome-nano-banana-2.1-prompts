@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-厳選した **57** 件の Nano Banana 2.1 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) のプロンプトライブラリから自動で同期されます。
+厳選した **58** 件の Nano Banana 2.1 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) のプロンプトライブラリから自動で同期されます。
 
 👉 [cinel.ai ですべて見る・オンラインで生成](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -26,7 +26,7 @@
 - [3D キャラクター・フィギュア](#3d-figurines) (7) · [すべて](cases/3d-figurines.md)
 - [フード・ドリンク](#food-drink) (1) · [すべて](cases/food-drink.md)
 - [イラスト・アニメ](#illustration-anime) (9) · [すべて](cases/illustration-anime.md)
-- [クリエイティブシーン](#scenes-creative) (18) · [すべて](cases/scenes-creative.md)
+- [クリエイティブシーン](#scenes-creative) (19) · [すべて](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -530,7 +530,7 @@ A single key frame from a dark fantasy 2D anime film fused with gothic ink illus
 
 ## クリエイティブシーン
 
-厳選 6 件 · [全 18 件を見る](cases/scenes-creative.md) · [cinel のカテゴリ](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+厳選 6 件 · [全 19 件を見る](cases/scenes-creative.md) · [cinel のカテゴリ](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Isometric Forest Dungeon Game Level
 
