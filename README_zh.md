@@ -432,20 +432,6 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 精选 6 条 · [查看本类全部 9 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-### 姜饼王国像素游戏
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-game-gingerbread-kingdom?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/pixel-game-gingerbread-kingdom.webp" alt="姜饼王国像素游戏" width="360"></a>
-
-> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a fairy-tale gingerbread kingdom quest”），非现代片厂IP片名。
-
-```text
-Make me a pixel art version of a fairy-tale gingerbread kingdom quest if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: candy towers, icing rivers, cookie knights, pastel pink-and-mint fairy-tale pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
-```
-
-- 原作者: [@icreatelife](https://x.com/icreatelife)
-- 原帖: https://x.com/icreatelife/status/1992598016868720997
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-gingerbread-kingdom?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-
 ### 风暴中的九尾狐神女
 
 <a href="https://cinel.ai/zh/prompts/p/nine-tailed-fox-goddess-storm?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/nine-tailed-fox-goddess-storm.webp" alt="风暴中的九尾狐神女" width="480"></a>
@@ -526,39 +512,25 @@ A single key frame from a dark fantasy 2D anime film fused with gothic ink illus
 - 原帖: https://x.com/aimikoda/status/2109235247162245339
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/gothic-ink-anime-sword-duel-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
+### 厚涂油画雨中撑伞街景关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/impasto-rainy-umbrella-street-keyframe.webp" alt="厚涂油画雨中撑伞街景关键帧" width="480"></a>
+
+> 改编自 @churvikv 的 Seedance 2.5 视频提示词，原帖配文“雨声像掌声”。原作是一段 8 秒的刮刀厚涂油画短片：穿橙色大衣、撑透明伞的女子，驶过的公交车，闪烁的路灯和飘落的树叶。我们把它改写成一帧静止画面。适合秋季海报、书籍封面和氛围壁纸。
+
+```text
+A single key frame in impasto oil painting style with thick palette-knife texture: a woman in an orange coat walks slowly forward on a wet cobblestone sidewalk, holding a transparent umbrella with rain dripping from its edges. Heavy rain falls in vertical streaks; a bus and cars pass along the slick road, their headlights and taillights reflecting on the wet surface. Street lamps cast a warm orange glow, autumn leaves drift down, puddles ripple, wet cobblestones shimmer with reflected light, dark stormy clouds overhead. Moody cinematic autumn evening atmosphere, no text. Square 1:1 composition.
+```
+
+- 原作者: [@churvikv](https://x.com/churvikv)
+- 原帖: https://x.com/churvikv/status/2110031241139360215
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
 <a id="scenes-creative"></a>
 
 ## 创意场景
 
 精选 6 条 · [查看本类全部 19 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-
-### 等距森林地牢游戏关卡
-
-<a href="https://cinel.ai/zh/prompts/p/isometric-game-level-forest-dungeon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/isometric-game-level-forest-dungeon.webp" alt="等距森林地牢游戏关卡" width="480"></a>
-
-> 将依赖上传/参考图的等距游戏关卡提示词改写为纯文本；用文字描述场景代替REFERENCE_IMG。
-
-```text
-Isometric game map, clean vector edges with light pixel-art accents, 8k crisp, isometric 3D projection. Build a playable-looking game level overview of an ancient forest dungeon with mossy stone corridors, glowing mushrooms, treasure chests, and tiny adventurer icons. Turn architecture and props into readable game tiles; preserve clear spatial layout; optionally show small stylized character icons. TEXT-ONLY — no uploaded reference photo. Square 1:1. No gore, no explicit content, no brand logos, no copyrighted game IP, no watermarks, no real celebrity likeness.
-```
-
-- 原作者: [@Gdgtify](https://x.com/Gdgtify)
-- 原帖: https://x.com/Gdgtify/status/1995486038043893825
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-game-level-forest-dungeon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-
-### 等距赛博巷道游戏关卡
-
-<a href="https://cinel.ai/zh/prompts/p/isometric-game-level-cyber-alley?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/isometric-game-level-cyber-alley.webp" alt="等距赛博巷道游戏关卡" width="480"></a>
-
-> 将依赖上传/参考图的等距游戏关卡提示词改写为纯文本；用文字描述场景代替REFERENCE_IMG。
-
-```text
-Isometric game map, clean vector edges with light pixel-art accents, 8k crisp, isometric 3D projection. Build a playable-looking game level overview of a neon cyber alley with rooftop gardens, hover bikes, noodle stalls, and tiny runner icons. Turn architecture and props into readable game tiles; preserve clear spatial layout; optionally show small stylized character icons. TEXT-ONLY — no uploaded reference photo. Square 1:1. No gore, no explicit content, no brand logos, no copyrighted game IP, no watermarks, no real celebrity likeness.
-```
-
-- 原作者: [@Gdgtify](https://x.com/Gdgtify)
-- 原帖: https://x.com/Gdgtify/status/1995486038043893825
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-game-level-cyber-alley?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 剪影树与城市日落合成
 
@@ -615,6 +587,34 @@ Create a creative minimalist 3D scrapbook composition featuring a realistic phot
 - 原作者: [@Taaruk_](https://x.com/Taaruk_)
 - 原帖: https://x.com/Taaruk_/status/2110655754927772000
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/3d-scrapbook-floating-photo-cutout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 抽象概念的物理化呈现
+
+<a href="https://cinel.ai/zh/prompts/p/abstract-concept-as-physical-phenomenon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/abstract-concept-as-physical-phenomenon.webp" alt="抽象概念的物理化呈现" width="480"></a>
+
+> 来自 @Gdgtify 的分步模板。它先推断概念的行为方式（累积、泄漏、侵蚀），为它匹配一种自然过程，再加入一个习以为常地适应它的普通人，并留下水位线和修补痕迹作为证据。渲染规则很严格：冷静写实，阴天光线，无标签，无文字。我们试了“通知过载”，表现为发光纸条像潮水一样淹没街道。适合评论配图、文章封面和概念艺术。
+
+```text
+A single calm observational photograph that turns the abstract concept of notification overload into a physical phenomenon: a slow rising tide of small glowing white paper slips flooding an ordinary apartment street. One ordinary person in a raincoat wades through it with routine calm, carrying a bucket and bailing slips out of a doorway; the walls show successive high-water marks and repairs at different heights, and one old repair sits far below the current level. Long lens, overcast light, quiet realism. No symbols painted on the phenomenon, no labels, no text, no second metaphor. Square 1:1.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2109653566558437642
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/abstract-concept-as-physical-phenomenon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 单词提示词：Thoughts（思绪）
+
+<a href="https://cinel.ai/zh/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/one-word-prompt-thoughts.webp" alt="单词提示词：Thoughts（思绪）" width="480"></a>
+
+> 来自 @AllaAisling 的单词提示词系列：整条提示词只有一个词，其余全部交给模型决定。“Thoughts”通常会生成关于头脑和思绪的超现实隐喻。我们只输入这个词，未做任何修改，这次生成的是一位女子在洒满阳光的书桌前写字的安静画面。每次结果都不同，这正是它的乐趣。适合创意热身、模型对比和灵感启发。
+
+```text
+Thoughts
+```
+
+- 原作者: [@AllaAisling](https://x.com/AllaAisling)
+- 原帖: https://x.com/AllaAisling/status/2109313324504551930
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ## 许可
 

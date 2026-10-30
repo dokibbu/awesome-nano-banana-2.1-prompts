@@ -432,20 +432,6 @@ A single key frame from a cinematic street-food film: a night-market chef in a w
 
 Featured 6 · [See all 9](cases/illustration-anime.md) · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
-### Gingerbread Kingdom Pixel Game
-
-<a href="https://cinel.ai/prompts/p/pixel-game-gingerbread-kingdom?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/pixel-game-gingerbread-kingdom.webp" alt="Gingerbread Kingdom Pixel Game" width="360"></a>
-
-> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a fairy-tale gingerbread kingdom quest”), not a modern studio IP title.
-
-```text
-Make me a pixel art version of a fairy-tale gingerbread kingdom quest if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: candy towers, icing rivers, cookie knights, pastel pink-and-mint fairy-tale pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
-```
-
-- Author: [@icreatelife](https://x.com/icreatelife)
-- Original post: https://x.com/icreatelife/status/1992598016868720997
-- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-game-gingerbread-kingdom?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-
 ### Nine-Tailed Fox Goddess in a Storm
 
 <a href="https://cinel.ai/prompts/p/nine-tailed-fox-goddess-storm?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/nine-tailed-fox-goddess-storm.webp" alt="Nine-Tailed Fox Goddess in a Storm" width="480"></a>
@@ -526,39 +512,25 @@ A single key frame from a dark fantasy 2D anime film fused with gothic ink illus
 - Original post: https://x.com/aimikoda/status/2109235247162245339
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/gothic-ink-anime-sword-duel-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
+### Impasto Rainy Umbrella Street Key Frame
+
+<a href="https://cinel.ai/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/impasto-rainy-umbrella-street-keyframe.webp" alt="Impasto Rainy Umbrella Street Key Frame" width="480"></a>
+
+> Adapted from a Seedance 2.5 video prompt by @churvikv, posted with the line 'the rain sounds like applause'. The original is an 8-second clip in thick palette-knife oil paint: a woman in an orange coat with a transparent umbrella, buses passing, lamps glowing, leaves falling. We turned it into one still frame. Use it for autumn posters, book covers and mood wallpapers.
+
+```text
+A single key frame in impasto oil painting style with thick palette-knife texture: a woman in an orange coat walks slowly forward on a wet cobblestone sidewalk, holding a transparent umbrella with rain dripping from its edges. Heavy rain falls in vertical streaks; a bus and cars pass along the slick road, their headlights and taillights reflecting on the wet surface. Street lamps cast a warm orange glow, autumn leaves drift down, puddles ripple, wet cobblestones shimmer with reflected light, dark stormy clouds overhead. Moody cinematic autumn evening atmosphere, no text. Square 1:1 composition.
+```
+
+- Author: [@churvikv](https://x.com/churvikv)
+- Original post: https://x.com/churvikv/status/2110031241139360215
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/impasto-rainy-umbrella-street-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
 <a id="scenes-creative"></a>
 
 ## Creative Scenes
 
 Featured 6 · [See all 19](cases/scenes-creative.md) · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-
-### Isometric Forest Dungeon Game Level
-
-<a href="https://cinel.ai/prompts/p/isometric-game-level-forest-dungeon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/isometric-game-level-forest-dungeon.webp" alt="Isometric Forest Dungeon Game Level" width="480"></a>
-
-> TEXT-ONLY rewrite of an upload/reference-based isometric game-level prompt; scene described in text instead of REFERENCE_IMG.
-
-```text
-Isometric game map, clean vector edges with light pixel-art accents, 8k crisp, isometric 3D projection. Build a playable-looking game level overview of an ancient forest dungeon with mossy stone corridors, glowing mushrooms, treasure chests, and tiny adventurer icons. Turn architecture and props into readable game tiles; preserve clear spatial layout; optionally show small stylized character icons. TEXT-ONLY — no uploaded reference photo. Square 1:1. No gore, no explicit content, no brand logos, no copyrighted game IP, no watermarks, no real celebrity likeness.
-```
-
-- Author: [@Gdgtify](https://x.com/Gdgtify)
-- Original post: https://x.com/Gdgtify/status/1995486038043893825
-- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-game-level-forest-dungeon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
-
-### Isometric Cyber Alley Game Level
-
-<a href="https://cinel.ai/prompts/p/isometric-game-level-cyber-alley?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/isometric-game-level-cyber-alley.webp" alt="Isometric Cyber Alley Game Level" width="480"></a>
-
-> TEXT-ONLY rewrite of an upload/reference-based isometric game-level prompt; scene described in text instead of REFERENCE_IMG.
-
-```text
-Isometric game map, clean vector edges with light pixel-art accents, 8k crisp, isometric 3D projection. Build a playable-looking game level overview of a neon cyber alley with rooftop gardens, hover bikes, noodle stalls, and tiny runner icons. Turn architecture and props into readable game tiles; preserve clear spatial layout; optionally show small stylized character icons. TEXT-ONLY — no uploaded reference photo. Square 1:1. No gore, no explicit content, no brand logos, no copyrighted game IP, no watermarks, no real celebrity likeness.
-```
-
-- Author: [@Gdgtify](https://x.com/Gdgtify)
-- Original post: https://x.com/Gdgtify/status/1995486038043893825
-- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-game-level-cyber-alley?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 
@@ -615,6 +587,34 @@ Create a creative minimalist 3D scrapbook composition featuring a realistic phot
 - Author: [@Taaruk_](https://x.com/Taaruk_)
 - Original post: https://x.com/Taaruk_/status/2110655754927772000
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/3d-scrapbook-floating-photo-cutout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Abstract Concept as a Physical Phenomenon
+
+<a href="https://cinel.ai/prompts/p/abstract-concept-as-physical-phenomenon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/abstract-concept-as-physical-phenomenon.webp" alt="Abstract Concept as a Physical Phenomenon" width="480"></a>
+
+> A step-by-step template from @Gdgtify. It infers how a concept behaves (accumulates, leaks, erodes), assigns it one matching natural process, adds one ordinary person adapting to it with routine calm, and leaves an evidence trail of high-water marks and repairs. The render rules are strict: calm realism, overcast light, no labels, no text. We tried notification overload as a tide of glowing paper slips flooding a street. Use it for op-ed images, essay covers and concept art.
+
+```text
+A single calm observational photograph that turns the abstract concept of notification overload into a physical phenomenon: a slow rising tide of small glowing white paper slips flooding an ordinary apartment street. One ordinary person in a raincoat wades through it with routine calm, carrying a bucket and bailing slips out of a doorway; the walls show successive high-water marks and repairs at different heights, and one old repair sits far below the current level. Long lens, overcast light, quiet realism. No symbols painted on the phenomenon, no labels, no text, no second metaphor. Square 1:1.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2109653566558437642
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/abstract-concept-as-physical-phenomenon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### One-Word Prompt: Thoughts
+
+<a href="https://cinel.ai/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="images/one-word-prompt-thoughts.webp" alt="One-Word Prompt: Thoughts" width="480"></a>
+
+> Part of @AllaAisling's running one-word prompt series, where the whole prompt is a single word and the model decides everything else. 'Thoughts' tends to produce surreal head-and-mind metaphors. We used the bare word, unedited; our run came out as a quiet scene of a woman writing at a sunlit desk. Results vary every run, which is the point. Use it for creative warm-ups, model comparisons and idea sparks.
+
+```text
+Thoughts
+```
+
+- Author: [@AllaAisling](https://x.com/AllaAisling)
+- Original post: https://x.com/AllaAisling/status/2109313324504551930
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/one-word-prompt-thoughts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ## License
 
