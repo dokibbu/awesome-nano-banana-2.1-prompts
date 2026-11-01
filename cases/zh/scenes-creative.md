@@ -1,6 +1,6 @@
 # 创意场景 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 19 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 20 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 剪影树与城市日落合成
 
@@ -281,3 +281,17 @@ Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Dunes at first l
 - 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
 - 原帖: https://x.com/RealLeeForest/status/2115111288955158783
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/frozen-time-lattice-rabbit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 轨道AI数据中心静帧
+
+<a href="https://cinel.ai/zh/prompts/p/orbital-ai-datacenter-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/orbital-ai-datacenter-keyframe.webp" alt="轨道AI数据中心静帧" width="480"></a>
+
+> 来自热门轨道数据中心提示；去掉品牌标以入库。
+
+```text
+A photorealistic unlabeled AI data center floating in low Earth orbit: rows of glowing server racks and large solar panels attached to a sleek white satellite frame, a tiny generic plate reading COMPUTE on one rack, Earth glowing blue below with city lights on the night side, sunrise flaring over the horizon, an astronaut in a white suit floating beside it holding a tablet, cinematic wide shot, sharp details, square 1:1 composition. No company logos, no brand marks, no watermark.
+```
+
+- 原作者: [@JimmyCarsttle](https://x.com/JimmyCarsttle)
+- 原帖: https://x.com/JimmyCarsttle/status/2116681635751997530
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/orbital-ai-datacenter-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

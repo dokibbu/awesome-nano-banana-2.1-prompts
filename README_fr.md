@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Une sélection de **58** prompts pour Nano Banana 2.1. Chacun comprend une image d'exemple, le prompt complet et le crédit à l'auteur d'origine avec un lien vers la publication originale. Les données proviennent de la bibliothèque de prompts de [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) et se synchronisent automatiquement.
+Une sélection de **60** prompts pour Nano Banana 2.1. Chacun comprend une image d'exemple, le prompt complet et le crédit à l'auteur d'origine avec un lien vers la publication originale. Les données proviennent de la bibliothèque de prompts de [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) et se synchronisent automatiquement.
 
 👉 [Tout parcourir et générer en ligne sur cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -23,10 +23,10 @@ Une sélection de **58** prompts pour Nano Banana 2.1. Chacun comprend une image
 - [Produit et e-commerce](#product-photography) (2) · [tous](cases/product-photography.md)
 - [Affiches, logos et design graphique](#poster-design) (3) · [tous](cases/poster-design.md)
 - [Infographies et UI](#infographic-ui) (5) · [tous](cases/infographic-ui.md)
-- [Personnages et figurines 3D](#3d-figurines) (7) · [tous](cases/3d-figurines.md)
+- [Personnages et figurines 3D](#3d-figurines) (8) · [tous](cases/3d-figurines.md)
 - [Cuisine et boissons](#food-drink) (1) · [tous](cases/food-drink.md)
 - [Illustration et anime](#illustration-anime) (9) · [tous](cases/illustration-anime.md)
-- [Scènes créatives](#scenes-creative) (19) · [tous](cases/scenes-creative.md)
+- [Scènes créatives](#scenes-creative) (20) · [tous](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -320,7 +320,7 @@ You are an AAA game UI artist, character designer, and cinematic key art directo
 
 ## Personnages et figurines 3D
 
-6 à la une · [Voir les 7](cases/3d-figurines.md) · [Catégorie sur cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 à la une · [Voir les 8](cases/3d-figurines.md) · [Catégorie sur cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -530,7 +530,7 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 
 ## Scènes créatives
 
-6 à la une · [Voir les 19](cases/scenes-creative.md) · [Catégorie sur cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+6 à la une · [Voir les 20](cases/scenes-creative.md) · [Catégorie sur cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 

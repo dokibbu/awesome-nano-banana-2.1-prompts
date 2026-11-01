@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · Nano Banana 2.1
 
-[← README](../README.md) · 7 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 8 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -112,3 +112,17 @@ Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
 - Author: [@aleenaamiir](https://x.com/aleenaamiir)
 - Original post: https://x.com/aleenaamiir/status/2013493349156823287
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-recycling-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Crochet Haunted House Hospitality
+
+<a href="https://cinel.ai/prompts/p/crochet-haunted-house-hospitality?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../images/crochet-haunted-house-hospitality.webp" alt="Crochet Haunted House Hospitality" width="360"></a>
+
+> Amigurumi diorama: swap hosts + interior rooms.
+
+```text
+A crochet-amigurumi Halloween diorama: a black cat in a tiny velvet-style cape welcomes two smiling little ghosts into a haunted Victorian mansion. A dollhouse cutaway reveals a cozy kitchen, a pumpkin-filled parlor and a soft attic bed, surrounded by rust-colored yarn trees. Thick crochet stitches, felt details, warm window light, deep violet night, a small waning gibbous moon, welcoming theatrical spookiness, portrait 4:5, no lettering, no watermark, no gore.
+```
+
+- Author: [@RenRose321](https://x.com/RenRose321)
+- Original post: https://x.com/RenRose321/status/2116241175355052464
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/crochet-haunted-house-hospitality?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

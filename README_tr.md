@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Özenle seçilmiş **58** Nano Banana 2.1 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
+Özenle seçilmiş **60** Nano Banana 2.1 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
 
 👉 [Tümüne cinel.ai'de göz at ve çevrimiçi üret](https://cinel.ai/prompts/model/nano-banana-2-1?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
@@ -23,10 +23,10 @@
 - [Ürün ve e-ticaret](#product-photography) (2) · [tümü](cases/product-photography.md)
 - [Afiş, logo ve grafik tasarım](#poster-design) (3) · [tümü](cases/poster-design.md)
 - [İnfografik ve UI](#infographic-ui) (5) · [tümü](cases/infographic-ui.md)
-- [3D karakter ve figürler](#3d-figurines) (7) · [tümü](cases/3d-figurines.md)
+- [3D karakter ve figürler](#3d-figurines) (8) · [tümü](cases/3d-figurines.md)
 - [Yemek ve içecek](#food-drink) (1) · [tümü](cases/food-drink.md)
 - [İllüstrasyon ve anime](#illustration-anime) (9) · [tümü](cases/illustration-anime.md)
-- [Yaratıcı sahneler](#scenes-creative) (19) · [tümü](cases/scenes-creative.md)
+- [Yaratıcı sahneler](#scenes-creative) (20) · [tümü](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -320,7 +320,7 @@ You are an AAA game UI artist, character designer, and cinematic key art directo
 
 ## 3D karakter ve figürler
 
-Öne çıkan 6 · [7 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Öne çıkan 6 · [8 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Toy Bubble Letter Topic Diorama Grid
 
@@ -530,7 +530,7 @@ A single key frame in impasto oil painting style with thick palette-knife textur
 
 ## Yaratıcı sahneler
 
-Öne çıkan 6 · [19 öğenin tümü](cases/scenes-creative.md) · [cinel'de kategori](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+Öne çıkan 6 · [20 öğenin tümü](cases/scenes-creative.md) · [cinel'de kategori](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 

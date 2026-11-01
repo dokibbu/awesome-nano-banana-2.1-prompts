@@ -1,15 +1,15 @@
 {
   "model": "nano-banana-2.1",
-  "count": 58,
+  "count": 60,
   "categories": {
     "portrait": 12,
     "product-photography": 2,
     "poster-design": 3,
     "infographic-ui": 5,
-    "3d-figurines": 7,
+    "3d-figurines": 8,
     "food-drink": 1,
     "illustration-anime": 9,
-    "scenes-creative": 19
+    "scenes-creative": 20
   },
   "slugs": [
     "silhouette-tree-city-sunset-composite",
@@ -69,6 +69,8 @@
     "isometric-game-level-forest-dungeon",
     "isometric-game-level-cyber-alley",
     "phone-lock-dunes-first-light",
-    "frozen-time-lattice-rabbit"
+    "frozen-time-lattice-rabbit",
+    "crochet-haunted-house-hospitality",
+    "orbital-ai-datacenter-keyframe"
   ]
 }

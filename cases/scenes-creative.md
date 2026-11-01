@@ -1,6 +1,6 @@
 # Creative Scenes · Nano Banana 2.1
 
-[← README](../README.md) · 19 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../README.md) · 20 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### Silhouette Tree and City Sunset Composite
 
@@ -281,3 +281,17 @@ Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Dunes at first l
 - Author: [@RealLeeForest](https://x.com/RealLeeForest)
 - Original post: https://x.com/RealLeeForest/status/2115111288955158783
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/frozen-time-lattice-rabbit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### Orbital AI Data Center Keyframe
+
+<a href="https://cinel.ai/prompts/p/orbital-ai-datacenter-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../images/orbital-ai-datacenter-keyframe.webp" alt="Orbital AI Data Center Keyframe" width="480"></a>
+
+> From viral orbit-DC prompt; brands/logos stripped for gallery.
+
+```text
+A photorealistic unlabeled AI data center floating in low Earth orbit: rows of glowing server racks and large solar panels attached to a sleek white satellite frame, a tiny generic plate reading COMPUTE on one rack, Earth glowing blue below with city lights on the night side, sunrise flaring over the horizon, an astronaut in a white suit floating beside it holding a tablet, cinematic wide shot, sharp details, square 1:1 composition. No company logos, no brand marks, no watermark.
+```
+
+- Author: [@JimmyCarsttle](https://x.com/JimmyCarsttle)
+- Original post: https://x.com/JimmyCarsttle/status/2116681635751997530
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/orbital-ai-datacenter-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)

@@ -1,6 +1,6 @@
 # 3D 角色与手办 · Nano Banana 2.1
 
-[← README](../../README_zh.md) · 7 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+[← README](../../README_zh.md) · 8 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
 
 ### 玩具泡泡字主题立体模型
 
@@ -112,3 +112,17 @@ Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
 - 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
 - 原帖: https://x.com/aleenaamiir/status/2013493349156823287
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/edu-diorama-how-recycling-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
+
+### 钩织鬼屋好客晚宴
+
+<a href="https://cinel.ai/zh/prompts/p/crochet-haunted-house-hospitality?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts"><img src="../../images/crochet-haunted-house-hospitality.webp" alt="钩织鬼屋好客晚宴" width="360"></a>
+
+> 钩织剖面：替换主人与室内房间。
+
+```text
+A crochet-amigurumi Halloween diorama: a black cat in a tiny velvet-style cape welcomes two smiling little ghosts into a haunted Victorian mansion. A dollhouse cutaway reveals a cozy kitchen, a pumpkin-filled parlor and a soft attic bed, surrounded by rust-colored yarn trees. Thick crochet stitches, felt details, warm window light, deep violet night, a small waning gibbous moon, welcoming theatrical spookiness, portrait 4:5, no lettering, no watermark, no gore.
+```
+
+- 原作者: [@RenRose321](https://x.com/RenRose321)
+- 原帖: https://x.com/RenRose321/status/2116241175355052464
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/crochet-haunted-house-hospitality?utm_source=github&utm_medium=awesome&utm_campaign=awesome-nano-banana-2.1-prompts)
